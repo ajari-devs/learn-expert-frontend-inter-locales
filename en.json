@@ -1051,7 +1051,7 @@
     "central": "Center",
     "my-training": "My training",
     "filter": "Filter",
-    "add-program": "Added the program",
+    "add-program": "Add Program",
     "email": "E-mail",
     "sanction": "Sanctions",
     "violation": "Violation",
@@ -1145,7 +1145,11 @@
     "failed": "Fail",
     "remedial-value": "Remedial value",
     "activities": "Activity",
-    "last-data-increase": "The last day increased"
+    "last-data-increase": "The last day increased",
+    "syllabus-program": "Program Syllabus",
+    "preview": "Preview",
+    "type-participant-must-be-filled": "The type of participant must be filled",
+    "name-must-be-filled": "The name must be filled"
   },
   "user": {
     "type": "Type",
