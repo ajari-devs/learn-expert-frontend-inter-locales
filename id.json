@@ -1065,7 +1065,7 @@
     "city": "Kabupaten/Kota",
     "institution": "Instansi",
     "position": "Jabatan",
-    "group": "Golongan",
+    "group": "Group",
     "office-mail": "Email Kantor",
     "office-phone": "Nomor Telepon Kantor",
     "fax-number": "Nomor Fax",
@@ -1736,8 +1736,19 @@
     "level-of-participant": "Tingkat partisipasi dalam",
     "average-quiz-increased": "Rata-rata kuis meningkat",
     "remedial-increased": "Remedial meningkat sebesar",
+    "reset-filter": "Reset",
+    "remedial": "Remedial",
+    "focus-rate": "Tingkat fokus dalam",
+    "activity": "/10 Aktivitas",
+    "from": "dari",
+    "total": "Total",
+    "prediction": "dari waktu yang diprediksi",
+    "complete-level": "Tingkat penyelesaian dalam",
+    "last-data-increase": "hari terakhir meningkat",
     "task-1": "Tugas 1",
-    "score-confirmation": "Konfirmasi Nilai"
+    "score-confirmation": "Konfirmasi Nilai",
+    "now-empty": "Saat ini, Anda belum memiliki ulasan dari siswa.",
+    "remedial-value": "Nilai Remedial"
   },
   "program-start-test-now": "Kerjakan Sekarang",
   "school": "Sekolah",
@@ -1778,9 +1789,15 @@
       "per-week": "Per Minggu",
       "per-month": "Per Bulan",
       "select-date": "Pilih Tanggal",
-      "range-date": "Rentang Waktu"
+      "range-date": "Rentang Waktu",
+      "reset": "Reset"
     }
   },
   "currently": "Sedang",
-  "total": "Total:"
+  "total": "Total:",
+  "class": {
+    "answare_true": "Benar",
+    "multiple-choice": "Pilihan Ganda",
+    "now-empty-review": "Saat ini, Anda belum memiliki ulasan dari siswa."
+  }
 }
