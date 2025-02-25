@@ -1101,8 +1101,6 @@
     "accepted": "Accepted",
     "active": "Active",
     "disqualified": "Disqualification",
-    "accepted": "Accepted",
-    "waiting": "Wait",
     "inactive": "Not active",
     "temporary-inactive": "Temporary non -active",
     "deleted": "Deleted",
@@ -1301,8 +1299,7 @@
     "question-must-not-be-empty": "Questions should not be empty",
     "class-name-fill-required": "Class name must be filled",
     "select-category": "Select Category",
-    "thumbnail-class-fill-required": "Thumbnail class must be filled",
-    "last-data-increase": "The last day increased"
+    "thumbnail-class-fill-required": "Thumbnail class must be filled"
   },
   "user": {
     "type": "Type",
@@ -2522,5 +2519,6 @@
   "class": {
     "multiple-choice": "Multiple choice",
     "answare_true": "Correct"
-  }
+  },
+  "add-student": "Add student"
 }

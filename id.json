@@ -1885,8 +1885,7 @@
     "class-name-fill-required": "Nama kelas wajib diisi",
     "class-description-fill-required": "Deskripsi kelas wajib diisi",
     "select-category": "Pilih Kategori",
-    "thumbnail-class-fill-required": "Thumbnail kelas wajib diisi",
-    "remedial-value": "Nilai Remedial"
+    "thumbnail-class-fill-required": "Thumbnail kelas wajib diisi"
   },
   "program-start-test-now": "Kerjakan Sekarang",
   "school": "Sekolah",
@@ -1939,5 +1938,6 @@
     "now-empty-review": "Saat ini, Anda belum memiliki ulasan dari siswa."
   },
   "program-failed-save-class": "Gagal Menyimpan Program",
-  "performing-duration": "Durasi Pengerjaan"
+  "performing-duration": "Durasi Pengerjaan",
+  "add-student": "Tambah Siswa"
 }
