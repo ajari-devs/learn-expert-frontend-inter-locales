@@ -798,12 +798,7 @@
     "hi-nisa": "Hi! I&apos;m N.I.S.A, your learning assistant.",
     "hi-nisa-subtitle": "Let&apos;s take a quick assessment to personalize your learning experience!",
     "start": "Start Assessment",
-    "last-day": "hari terakhir",
-    "ongoing": "berlangsung",
-    "finished": "Selesai",
-    "draft": "Draft",
-    "synchronous": "Sinkronus",
-    "asynchronous": "Asinkronus"
+    "last-day": "hari terakhir"
   },
   "chat": {
     "friend": "Teman",
@@ -1309,7 +1304,9 @@
     "failed-save-teacher": "Guru Gagal Disimpan",
     "user-preview-teacher": "Pratinjau Guru",
     "success-add-teacher": "Guru Berhasil Ditambahkan",
-    "teacher-detail": "Detail Guru"
+    "teacher-detail": "Detail Guru",
+    "parent-data": "Data Orangtua",
+    "parent-info": "Informasi Orangtua"
   },
   "batal": "Batal",
   "chat-hasnt-empty": "Pesan tidak boleh kosong",
@@ -1619,8 +1616,6 @@
     "recommend-for-participant": "Program ini akan ditampilkan di bagian rekomendasi untuk peserta",
     "cannot-display-recommend-participant": "Program ini tidak akan ditampilkan di bagian rekomendasi untuk peserta",
     "fail-delete-program": "Gagal Hapus Program",
-    "ongoing": "berlangsung",
-    "finished": "selesai",
     "please-try-agains": "Silakan coba lagi",
     "just-will-take-place-program": "Hanya program akan datang yang dapat diubah.",
     "name": "Nama",
@@ -1709,7 +1704,7 @@
     "search-type": "Cari tipe...",
     "no-data": "Tidak Ada Data",
     "previous": "Sebelumnya",
-    "next": "Lanjut",
+    "next": "Selanjutnya",
     "status-time": "Status Waktu",
     "time-left": "Waktu tersisa",
     "list-question": "List Pertanyaan",
@@ -1719,6 +1714,7 @@
     "mark-for-check-again": "Tandai untuk diperiksa lagi",
     "save": "Simpan",
     "give-rating": "Beri Rating",
+    "finished": "Selesai",
     "title-or-program-name": "Judul atau Nama File..",
     "statistik": "Statistik Program",
     "success": "Berhasil",
@@ -1889,7 +1885,8 @@
     "class-name-fill-required": "Nama kelas wajib diisi",
     "class-description-fill-required": "Deskripsi kelas wajib diisi",
     "select-category": "Pilih Kategori",
-    "thumbnail-class-fill-required": "Thumbnail kelas wajib diisi"
+    "thumbnail-class-fill-required": "Thumbnail kelas wajib diisi",
+    "remedial-value": "Nilai Remedial"
   },
   "program-start-test-now": "Kerjakan Sekarang",
   "school": "Sekolah",
