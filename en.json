@@ -560,7 +560,7 @@
     "placeholder-category-bank": "Enter the name of the question bank category ..",
     "deskription-category": "Description of the question bank category ..",
     "make-ai-question": "Create ai questions",
-    "make-manual-question": "Make a manual problem",
+    "make-manual-question": "Create manual question",
     "select-category": "Select the category",
     "ttile-select-category": "Question bank category",
     "name": "Question bank name",
@@ -573,8 +573,8 @@
     "failed-generate-topic": "Failed generate topic",
     "question-success-created": "The question was successfully made",
     "question-failed-created": "Problem failure is made",
-    "create-question": "Make questions",
-    "title": "Question bank",
+    "create-question": "Create Question",
+    "title": "Question Bank",
     "general": "General",
     "title-question": "Question",
     "select-question-bank": "Select the question bank",
@@ -592,10 +592,11 @@
     "change-question": "Change the problem",
     "question-changed": "The question was successfully changed",
     "failed-change-question": "The problem of failure is changed",
-    "manual-question": "Manual questions",
+    "manual-question": "Manual Question",
     "placeholder-export-file": "Select File Export Format",
     "export-question": "Export Problem",
-    "question-ai": "Ai about AI"
+    "question-ai": "AI Question",
+    "type-access": "Access type"
   },
   "message": {
     "failed-copied": ""
@@ -1292,7 +1293,14 @@
     "quiz-without-assessment": "Quiz without assessment",
     "uncompleted-quiz-will-not-be-assessed": "Uncomplted quiz will not be assessed",
     "fill-total-performance-max": "Fill total maximum performance ..",
-    "maximum-performance": "Maximum workmanship"
+    "maximum-performance": "Maximum workmanship",
+    "create-quiz-question": "Make a quiz question",
+    "create-ai-question": "Create AI Question",
+    "must-be-filled": "Must be filled",
+    "question-must-not-be-empty": "Questions should not be empty",
+    "class-name-fill-required": "Class name must be filled",
+    "select-category": "Select Category",
+    "thumbnail-class-fill-required": "Thumbnail class must be filled"
   },
   "user": {
     "type": "Type",

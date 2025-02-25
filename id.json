@@ -1881,7 +1881,15 @@
     "quiz-without-assessment": "Kuis Tanpa Penilaian",
     "uncompleted-quiz-will-not-be-assessed": "Kuis yang belum selesai tidak akan dinilai",
     "fill-total-performance-max": "Isi jumlah maksimum pengerjaan..",
-    "maximum-performance": "Maksimum Pengerjaan"
+    "maximum-performance": "Maksimum Pengerjaan",
+    "create-quiz-question": "Buat Soal Kuis",
+    "create-ai-question": "Buat Soal Ai",
+    "must-be-filled": "Harus diisi",
+    "question-must-not-be-empty": "Soal tidak boleh kosong",
+    "class-name-fill-required": "Nama kelas wajib diisi",
+    "class-description-fill-required": "Deskripsi kelas wajib diisi",
+    "select-category": "Pilih Kategori",
+    "thumbnail-class-fill-required": "Thumbnail kelas wajib diisi"
   },
   "program-start-test-now": "Kerjakan Sekarang",
   "school": "Sekolah",
