@@ -782,7 +782,8 @@
     "hi-nisa": "Hi! \nI",
     "hi-nisa-subtitle": "Let",
     "start": "Start Assessment",
-    "last-day": "last day"
+    "last-day": "last day",
+    "ongoing": "On going"
   },
   "chat": {
     "friend": "Friend",
@@ -1007,6 +1008,7 @@
     "instant-meeting": "Instant Meeting"
   },
   "program": {
+    "ongoing": "On going",
     "statistik": "Program statistics",
     "remedial-increased": "Remedial increases by",
     "in": "in",

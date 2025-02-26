@@ -798,7 +798,8 @@
     "hi-nisa": "Hi! I&apos;m N.I.S.A, your learning assistant.",
     "hi-nisa-subtitle": "Let&apos;s take a quick assessment to personalize your learning experience!",
     "start": "Start Assessment",
-    "last-day": "hari terakhir"
+    "last-day": "hari terakhir",
+    "ongoing": "Berlangsung"
   },
   "chat": {
     "friend": "Teman",
@@ -1632,6 +1633,7 @@
     "recommend": "Rekomendasikan",
     "edit": "Ubah",
     "program": "Program",
+    "ongoing": "On going",
     "invitation": "Undangan",
     "list-participant": "Daftar Peserta",
     "spesification-of-participant": "Spesifikasi Peserta",
