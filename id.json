@@ -1888,7 +1888,10 @@
     "class-name-fill-required": "Nama kelas wajib diisi",
     "class-description-fill-required": "Deskripsi kelas wajib diisi",
     "select-category": "Pilih Kategori",
-    "thumbnail-class-fill-required": "Thumbnail kelas wajib diisi"
+    "thumbnail-class-fill-required": "Thumbnail kelas wajib diisi",
+    "coming-soon": "Akan Berlangsung",
+    "ongoing": "Sedang Berlangsung",
+    "rejected": "Ditolak"
   },
   "program-start-test-now": "Kerjakan Sekarang",
   "school": "Sekolah",

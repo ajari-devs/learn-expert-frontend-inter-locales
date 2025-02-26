@@ -1359,7 +1359,11 @@
     "see-leaderboard": "See Leaderboard",
     "reference-document": "Reference document",
     "download-all": "Download all",
-    "download": "Download"
+    "download": "Download",
+    "finished": "Finished",
+    "rejected": "Rejected",
+    "ongoing": "Ongoing",
+    "coming-soon": "Coming soon"
   },
   "user": {
     "type": "Type",
