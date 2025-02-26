@@ -799,7 +799,9 @@
     "hi-nisa-subtitle": "Let&apos;s take a quick assessment to personalize your learning experience!",
     "start": "Start Assessment",
     "last-day": "hari terakhir",
-    "ongoing": "Berlangsung"
+    "ongoing": "Berlangsung",
+    "draft": "Draft",
+    "finished": "Selesai"
   },
   "chat": {
     "friend": "Teman",

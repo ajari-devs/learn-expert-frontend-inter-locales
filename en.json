@@ -783,7 +783,10 @@
     "hi-nisa-subtitle": "Let",
     "start": "Start Assessment",
     "last-day": "last day",
-    "ongoing": "On going"
+    "ongoing": "On going",
+    "draft": "Draft",
+    "finished": "Finished",
+    "upcoming": "Upcoming"
   },
   "chat": {
     "friend": "Friend",
