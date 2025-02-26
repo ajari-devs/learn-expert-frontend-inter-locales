@@ -936,7 +936,9 @@
   },
   "user-management": {
     "user": "User",
-    "search-user": "Search user..."
+    "search-user": "Search user...",
+    "institution": "Education level",
+    "select-institution": "Choose the level of education .."
   },
   "conference": {
     "owner-not-found": "Owner Room not found",
@@ -1472,7 +1474,8 @@
     "title-must-not-be-empty": "The title may not be empty",
     "description-must-not-be-empty": "Description may not be empty",
     "start-date-may-not-empty": "Start date should not be empty",
-    "end-date-may-not-empty": "End date may not be empty"
+    "end-date-may-not-empty": "End date may not be empty",
+    "search-institution": "Find the level of education ..."
   },
   "user": {
     "type": "Type",
@@ -1497,7 +1500,7 @@
     "user-central": "Central",
     "province": "Province",
     "city": "District/city",
-    "institution": "Institution",
+    "institution": "Education level",
     "position": "Position",
     "office-mail": "Office email",
     "office-phone": "Office telephone number",
