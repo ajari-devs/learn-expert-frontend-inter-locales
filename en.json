@@ -560,7 +560,7 @@
     "placeholder-category-bank": "Enter the name of the question bank category ..",
     "deskription-category": "Description of the question bank category ..",
     "make-ai-question": "Create ai questions",
-    "make-manual-question": "Create manual question",
+    "make-manual-question": "Make a manual problem",
     "select-category": "Select the category",
     "ttile-select-category": "Question bank category",
     "name": "Question bank name",
@@ -573,8 +573,8 @@
     "failed-generate-topic": "Failed generate topic",
     "question-success-created": "The question was successfully made",
     "question-failed-created": "Problem failure is made",
-    "create-question": "Create Question",
-    "title": "Question Bank",
+    "create-question": "Make questions",
+    "title": "Question bank",
     "general": "General",
     "title-question": "Question",
     "select-question-bank": "Select the question bank",
@@ -592,11 +592,10 @@
     "change-question": "Change the problem",
     "question-changed": "The question was successfully changed",
     "failed-change-question": "The problem of failure is changed",
-    "manual-question": "Manual Question",
+    "manual-question": "Manual questions",
     "placeholder-export-file": "Select File Export Format",
     "export-question": "Export Problem",
-    "question-ai": "AI Question",
-    "type-access": "Access type"
+    "question-ai": "Ai about AI"
   },
   "message": {
     "failed-copied": ""
@@ -1171,7 +1170,7 @@
     "end-line-fill-required": "The deadline must be filled",
     "reminder-fill-required": "Reminder must be filled",
     "passing-grade-fill-required": "The minimum graduation value must be filled",
-    "assesment-method-fill-required": "The assessment method must be filled",
+    "assesment-method-fill-required": "Scoring method must be filled",
     "comment-fill-required": "Comments must be filled in",
     "paraphrase-question-fill-required": "Paraphrase Questions Must Be Filled",
     "view-final-result-fill-required": "Show the final results must be filled",
@@ -1464,7 +1463,16 @@
     "rejected": "Rejected",
     "coming-soon": "Coming soon",
     "succeed-delete": "failed to be deleted.",
-    "study-case": "Case study"
+    "study-case": "Case study",
+    "error-phone": "The telephone number must begin with \"08\" and contains 9 to 13 numbers",
+    "nim-score-must-be-numeric": "Minimum score must be in the form of numbers",
+    "nim-passing-grade-is-one": "Minimum passed score is 1",
+    "min-score-fill-required": "Minimum score must be filled",
+    "scoring-parameter-fill-required": "Scoring parameters must be filled",
+    "title-must-not-be-empty": "The title may not be empty",
+    "description-must-not-be-empty": "Description may not be empty",
+    "start-date-may-not-empty": "Start date should not be empty",
+    "end-date-may-not-empty": "End date may not be empty"
   },
   "user": {
     "type": "Type",
@@ -1532,7 +1540,7 @@
     "jpg-or-png": "JPG or PNG",
     "select-city": "Choose the city ..",
     "select-province": "Choose the province ..",
-    "central": "Central",
+    "central": "School",
     "select-central": "Choose the central ..",
     "select-institution": "Select institution ..",
     "enter-nip": "Enter nip ..",
@@ -2684,6 +2692,18 @@
   "class": {
     "multiple-choice": "Multiple choice",
     "answare_true": "Correct"
+  },
+  "personalization": {
+    "ai-pocessing": "AI Processing",
+    "thanks-complate": "Thank you for completing the assessment!",
+    "complate-personalization-subtitle": "Your learning experience will now be tailored to your needs.",
+    "return-dashboard": "Return to dashboard",
+    "assesment-question": "Assessment Question",
+    "skip": "Skip",
+    "question": "Questions",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save"
   },
   "add-student": "Add student",
   "quiz": {

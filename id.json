@@ -1989,7 +1989,16 @@
     "select-golongan": "Pilih golongan..",
     "select-institution": "Pilih instansi",
     "coming-soon": "Akan Berlangsung",
-    "rejected": "Ditolak"
+    "rejected": "Ditolak",
+    "error-phone": "Nomor telepon harus diawali dengan \"08\" dan berisi 9 sampai 13 angka",
+    "nim-score-must-be-numeric": "Nilai Minimal harus berupa angka",
+    "nim-passing-grade-is-one": "Nilai minimal kelulusan adalah 1",
+    "min-score-fill-required": "Nilai minimal harus diisi",
+    "scoring-parameter-fill-required": "Parameter penilaian harus diisi",
+    "title-must-not-be-empty": "Judul tidak boleh kosong",
+    "description-must-not-be-empty": "Deskripsi tidak boleh kosong",
+    "start-date-may-not-empty": "Tanggal mulai tidak boleh kosong",
+    "end-date-may-not-empty": "Tanggal selesai tidak boleh kosong"
   },
   "program-start-test-now": "Kerjakan Sekarang",
   "school": "Sekolah",
