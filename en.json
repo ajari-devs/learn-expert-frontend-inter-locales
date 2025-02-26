@@ -1363,7 +1363,33 @@
     "finished": "Finished",
     "rejected": "Rejected",
     "ongoing": "Ongoing",
-    "coming-soon": "Coming soon"
+    "coming-soon": "Coming soon",
+    "failed-upload-thumbnail": "Failed to upload thumbnails",
+    "are-you-sure-delete-spec": "Are you sure you want to delete specifications?",
+    "cant-delete-all-spec": "Cannot delete all specifications",
+    "you-can-add-more-one-learning": "You can add more than 1 learning",
+    "empty-learning": "There is no learning yet",
+    "score-must-range-100": "The value must be between 0 - 100",
+    "score-presence": "Assessment percentage",
+    "insert-presence-score": "Enter the value of the presence ...",
+    "insert-learning-activity-grade": "Enter the value of learning activities ...",
+    "min-score-condition-for-passing-program": "Minimum value requirements for program graduation",
+    "program-preview": "Preview Program",
+    "succeed-delete": "failed to be deleted.",
+    "program-offline-activity": "Offline class",
+    "yes-delete": "Yes, delete",
+    "delete-learning": "Delete learning?",
+    "are-you-sure-delete-learning": "Are you surre to delete learning topics?",
+    "failed-delete-subtopic": "Subtopic failed to be deleted",
+    "succeed-delete-subtopic": "Subtopic was successfully deleted",
+    "delete-subtopic": "Delete subtopic?",
+    "are-you-sure-delete-subtopic": "Are you sure to delete subtopics?",
+    "are-you-sure-delete-score-parameter": "Are you sure you want to delete the assessment parameters?",
+    "there-learning-is-empty": "There is empty learning",
+    "please-fill-all-learning": "Please fill in all learning",
+    "certificate-havent-selected-yet": "Certificate has not been elected",
+    "please-select-certificate-first": "Please choose a certificate first",
+    "failed-retrieve-syllabus-data": "Failed Retrieve Syllabus Data"
   },
   "user": {
     "type": "Type",
@@ -2637,5 +2663,10 @@
     "input-score": "Input score..",
     "no-preview": "There is no preview for the type of question",
     "question-not-found": "Problem is not found"
-  }
+  },
+  "add-new": "Add new",
+  "add-case-question": "Added about the case",
+  "import-question": "Import questions",
+  "export-question": "Export questions",
+  "create-category": "Create a category"
 }
