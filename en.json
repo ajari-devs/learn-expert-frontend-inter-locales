@@ -1545,6 +1545,14 @@
     "start-learning": "Start learning",
     "continue-learning": "Continue learning",
     "download-certificate": "Download the certificate",
+    "plagiarism-percent": "Plagiarism",
+    "maximun-value": "Maximum value",
+    "case": "Case",
+    "learning-complated": "Successful learning",
+    "student-id": "NIK",
+    "id-student": "Student ID",
+    "average-progress": "Average workmanship",
+    "average-focis": "Average focus",
     "minimum-score": "Minimum passed score:",
     "file-disallow-empty": "The file should not be empty",
     "dont-do-plagiarism": "Prohibited from doing plagiarism",
@@ -2806,7 +2814,8 @@
     "question": "Questions",
     "back": "Back",
     "next": "Next",
-    "save": "Save"
+    "save": "Save",
+    "filter": "Filter"
   },
   "add-student": "Add Student",
   "quiz": {
