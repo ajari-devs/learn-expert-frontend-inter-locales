@@ -634,9 +634,9 @@
     "case-study": "Case study questions",
     "max-question": "Max questions is",
     "available": "Available",
-    "multiple-choice-question": "multiple choice questions",
+    "multiple-choice-question": "multiple choice",
     "multiple-answer": "Double answer",
-    "essay-question": "Essay question"
+    "essay-question": "Essay"
   },
   "message": {
     "failed-copied": ""
@@ -1544,7 +1544,8 @@
     "last-day": "last day.",
     "start-learning": "Start learning",
     "continue-learning": "Continue learning",
-    "download-certificate": "Download the certificate"
+    "download-certificate": "Download the certificate",
+    "no-limit": "No limit"
   },
   "user": {
     "type": "Type",
@@ -2902,7 +2903,7 @@
   "max-total-question-is-0": "Max. the number of questions is {0}",
   "available-0-multi-choice-question": "Available {0} multiple choice questions",
   "multiple-choice": "Multiple Choice Questions",
-  "essay-question": "Essay Questions",
+  "essay-question": "Essay",
   "available-0-essay-question": "Available {0} Essay selection questions",
   "failed-load-pdf": "Failed to load PDF",
   "page": "Page",
@@ -2970,5 +2971,11 @@
     "preview": "Preview",
     "class-information": "Class information"
   },
-  "student": "Student"
+  "student": "Student",
+  "hour-duration": "Hour Duration",
+  "minute-duration": "Minute Duration",
+  "batal": "Cancel",
+  "save": "Save",
+  "search-student": "Search students ..",
+  "name": "Name"
 }

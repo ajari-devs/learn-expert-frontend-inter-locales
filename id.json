@@ -2299,5 +2299,10 @@
     "material-reference": "Referensi Materi",
     "preview": "Pratinjau",
     "class-information": "Informasi Kelas"
-  }
+  },
+  "hour-duration": "Durasi Jam",
+  "minute-duration": "Durasi Menit",
+  "save": "Simpan",
+  "search-student": "Cari Siswa..",
+  "name": "Nama"
 }
