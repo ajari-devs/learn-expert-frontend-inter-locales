@@ -172,7 +172,13 @@
     "thursday": "Kamis",
     "friday": "Jumat",
     "sturday": "Sabtu",
-    "sunday": "Minggu"
+    "sunday": "Minggu",
+    "scoring-date": "Tanggal Penilaian",
+    "offline-activity": "Aktifitas Offline",
+    "competency-test": "Uji Kompetensi",
+    "study-case": "Studi Kasus",
+    "quiz": "Kuis",
+    "task": "Tugas"
   },
   "dashboard": {
     "widget-success-saved": "Widget Berhasil Disimpan",
@@ -2041,7 +2047,10 @@
     "grade-succeed-deleted": "Golongan Berhasil Dihapus",
     "grade-failed-deleted": "Golongan Gagal Dihapus",
     "add-grade": "Tambah Golongan",
-    "search-grade": "Cari golongan.."
+    "search-grade": "Cari golongan..",
+    "passing-min-score-0": "Nilai Minimum Kelulusan : {0}",
+    "member": "Anggota",
+    "lead": "Ketua"
   },
   "program-start-test-now": "Kerjakan Sekarang",
   "school": "Sekolah",
@@ -2212,6 +2221,23 @@
   "confirm-student-type-item": "Apakah Anda yakin untuk menghapus item Tipe Siswa?",
   "student-type-succeed-deleted": "Tipe Siswa Berhasil Dihapus",
   "student-type-failed-deleted": "Tipe Siswa Gagal Dihapus",
+  "failed-create-ai-question": "Gagal Membuat Soal AI",
+  "generate-question": "Generate Soal",
+  "select-topic": "Pilih topik",
+  "ai-topic": "Topik AI",
+  "failed-retrieve-topic": "Gagal mengambil topik.",
+  "try-again": "Coba lagi",
+  "study-case-question": "Soal Studi Kasus",
+  "max-total-question-is-0": "Maks. jumlah soal adalah {0}",
+  "calendar": "Calendar",
+  "available-0-multi-choice-question": "Tersedia {0} soal pilihan ganda",
+  "multiple-choice": "Soal Pilihan Ganda",
+  "essay-question": "Soal Esai",
+  "available-0-essay-question": "Tersedia {0} soal pilihan esai",
+  "failed-load-pdf": "Gagal Memuat PDF",
+  "page": "Halaman",
+  "average-score": "Nilai Rata-rata",
+  "select-sched-class": "Pilih Jadwal Kelas",
   "statistic": {
     "total-program": "Total Program",
     "progress-status": "Status Pengerjaan"
