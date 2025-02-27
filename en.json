@@ -1544,7 +1544,16 @@
     "last-day": "last day.",
     "start-learning": "Start learning",
     "continue-learning": "Continue learning",
-    "download-certificate": "Download the certificate"
+    "download-certificate": "Download the certificate",
+    "plagiarism-percent": "Plagiarism",
+    "maximun-value": "Maximum value",
+    "case": "Case",
+    "learning-complated": "Successful learning",
+    "student-id": "NIK",
+    "id-student": "Student ID",
+    "list-student": "List of students",
+    "average-progress": "Average workmanship",
+    "average-focis": "Average focus"
   },
   "user": {
     "type": "Type",
@@ -2776,7 +2785,8 @@
     "question": "Questions",
     "back": "Back",
     "next": "Next",
-    "save": "Save"
+    "save": "Save",
+    "filter": "Filter"
   },
   "add-student": "Add student",
   "quiz": {

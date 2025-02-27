@@ -2050,7 +2050,15 @@
     "search-grade": "Cari golongan..",
     "passing-min-score-0": "Nilai Minimum Kelulusan : {0}",
     "member": "Anggota",
-    "lead": "Ketua"
+    "lead": "Ketua",
+    "plagiarism-percent": "Plagiarism",
+    "maximun-value": "Nilai Maksimal",
+    "case": "Kasus",
+    "learning-complated": "Pembelajaran Berhasil",
+    "student-id": "NIK",
+    "id-student": "ID Siswa",
+    "average-progress": "Rata-Rata Pengerjaan",
+    "average-focis": "Fokus Rata-Rata"
   },
   "program-start-test-now": "Kerjakan Sekarang",
   "school": "Sekolah",
