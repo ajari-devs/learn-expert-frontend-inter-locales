@@ -628,7 +628,18 @@
     "back": "Kembali",
     "save": "Simpan",
     "cancel": "Batal",
-    "search-question-bank": "Cari bank soal.."
+    "search-question-bank": "Cari bank soal..",
+    "failed-create-ai-question": "Gagal Membuat Soal AI",
+    "generate-question": "Generate Soal",
+    "select-topic": "Pilih topik",
+    "ai-topic": "Topik AI",
+    "try-again": "Coba lagi",
+    "case-study": "Soal Studi Kasus",
+    "max-question": "Maks. jumlah soal adalah",
+    "available": "Tersedia",
+    "multiple-choice-question": "soal pilihan ganda",
+    "multiple-answer": "Jawaban Ganda",
+    "essay-question": "Soal Esai"
   },
   "Dashboard": {
     "instant-meeting": "Rapat Instan",

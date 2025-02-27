@@ -560,7 +560,7 @@
     "select-main-category": "Select the main category",
     "placeholder-category-bank": "Enter the name of the question bank category ..",
     "deskription-category": "Description of the question bank category ..",
-    "make-ai-question": "Create ai questions",
+    "make-ai-question": "Create AI questions",
     "make-manual-question": "Create Manual Question",
     "select-category": "Select the category",
     "ttile-select-category": "Question bank category",
@@ -615,7 +615,18 @@
     "back": "Back",
     "save": "Save",
     "cancel": "Cancel",
-    "search-question-bank": "Search question bank .."
+    "search-question-bank": "Search question bank ..",
+    "failed-create-ai-question": "Failed to make AI questions",
+    "generate-question": "Generate questions",
+    "select-topic": "Choose a topic",
+    "ai-topic": "AI topic",
+    "try-again": "Try again",
+    "case-study": "Case study questions",
+    "max-question": "Max questions is",
+    "available": "Available",
+    "multiple-choice-question": "multiple choice questions",
+    "multiple-answer": "Double answer",
+    "essay-question": "Essay question"
   },
   "message": {
     "failed-copied": ""
