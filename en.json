@@ -3097,5 +3097,10 @@
   "watching-progress": "Watch Progress",
   "progres": "Progress",
   "audio-duration": "Audio duration",
-  "average-playing-duration": "Average Playing Duration"
+  "average-playing-duration": "Average Playing Duration",
+  "ai-cant-create-learning-guideline": "AI can't create learning guideline",
+  "please-try-again-later": "Please try again after a few moments!",
+  "yes-back": "Yes, back",
+  "loading-learning-guideline": "Loading Learning Guideline",
+  "audio-learning-guideline-not-available": "Audio Learning Guideline is not available"
 }
