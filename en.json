@@ -2804,7 +2804,7 @@
     "not-started-yet": "Not yet started",
     "passed": "Passed",
     "failed": "Not pass",
-    "need-review": "Need to be reviewed",
+    "need-review": "Need review",
     "working-on": "Work to",
     "submission-deadline": "Collection time",
     "score-100": "Score (100)",
@@ -2814,7 +2814,7 @@
     "score": "Score",
     "send-feedback": "Send feedback",
     "correct": "Correct",
-    "wrong": "Wrong",
+    "wrong": "Incorrect",
     "change-to": "Change to",
     "confirm-correction": "The correct answer will be corrected. \nAre you sure you want to change it?",
     "yes-change": "Yes, change",
@@ -2843,7 +2843,9 @@
     "multiple-answer": "Double answer",
     "sort-answer": "Answer sort",
     "add-answer": "Add answers",
-    "insert-answer": "Enter the answer"
+    "insert-answer": "Enter the answer",
+    "score-must-number": "The score must be numbers.",
+    "case2": "Case"
   },
   "add-new": "Add new",
   "add-case-question": "Added about the case",

@@ -2172,7 +2172,9 @@
     "multiple-answer": "Jawaban Ganda",
     "sort-answer": "Sortir Jawaban",
     "add-answer": "Tambah Jawaban",
-    "insert-answer": "Masukkan jawaban"
+    "insert-answer": "Masukkan jawaban",
+    "score-must-number": "Nilai harus berupa angka.",
+    "case2": "Kasus"
   },
   "add-new": "Tambah Baru",
   "add-case-question": "Tambah Soal Kasus",
