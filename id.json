@@ -156,7 +156,7 @@
     "organizer": "Penyelenggara",
     "description": "Deskripsi",
     "job": "Peran",
-    "instalation": "Instansi",
+    "instalation": "Education Level",
     "group": "Golongan",
     "viewer": "Penonton",
     "basic-information": "Informasi Umum",
@@ -323,7 +323,10 @@
     "add-widget": "Tambah Widget",
     "class-summary": "Class Summary",
     "days": "hari",
-    "total-master-teacher": "Total Master Guru"
+    "total-master-teacher": "Total Master Guru",
+    "total-video-duration": "Total Durasi Video",
+    "total-read-pdf": "Total Baca PDF",
+    "total-read-ppt": "Total Baca PPT"
   },
   "layout": {
     "yes-leave": "Ya, Keluar",
@@ -628,7 +631,18 @@
     "back": "Kembali",
     "save": "Simpan",
     "cancel": "Batal",
-    "search-question-bank": "Cari bank soal.."
+    "search-question-bank": "Cari bank soal..",
+    "failed-create-ai-question": "Gagal Membuat Soal AI",
+    "generate-question": "Generate Soal",
+    "select-topic": "Pilih topik",
+    "ai-topic": "Topik AI",
+    "try-again": "Coba lagi",
+    "case-study": "Soal Studi Kasus",
+    "max-question": "Maks. jumlah soal adalah",
+    "available": "Tersedia",
+    "multiple-choice-question": "soal pilihan ganda",
+    "multiple-answer": "Jawaban Ganda",
+    "essay-question": "Soal Esai"
   },
   "Dashboard": {
     "instant-meeting": "Rapat Instan",
@@ -820,7 +834,9 @@
     "ongoing": "Berlangsung",
     "draft": "Draft",
     "finished": "Selesai",
-    "take-a-quick": "Mari lakukan penilaian cepat untuk mempersonalisasi pengalaman belajar Anda!"
+    "take-a-quick": "Mari lakukan penilaian cepat untuk mempersonalisasi pengalaman belajar Anda!",
+    "decrease": "menurun",
+    "increase": "meningkat"
   },
   "chat": {
     "friend": "Teman",
@@ -2017,7 +2033,15 @@
     "title-must-not-be-empty": "Judul tidak boleh kosong",
     "description-must-not-be-empty": "Deskripsi tidak boleh kosong",
     "start-date-may-not-empty": "Tanggal mulai tidak boleh kosong",
-    "end-date-may-not-empty": "Tanggal selesai tidak boleh kosong"
+    "end-date-may-not-empty": "Tanggal selesai tidak boleh kosong",
+    "select-district": "Pilih kota/kab..",
+    "grade-succeed": "Golongan Berhasil",
+    "grade-failed-to-be": "Golongan Gagal",
+    "confirm-delete-grade-item": "Apakah Anda yakin untuk menghapus item golongan?",
+    "grade-succeed-deleted": "Golongan Berhasil Dihapus",
+    "grade-failed-deleted": "Golongan Gagal Dihapus",
+    "add-grade": "Tambah Golongan",
+    "search-grade": "Cari golongan.."
   },
   "program-start-test-now": "Kerjakan Sekarang",
   "school": "Sekolah",
@@ -2153,5 +2177,43 @@
   "image": "Gambar",
   "document": "Dokumen",
   "other": "Lainnya",
-  "file-type": "Tipe Pengiriman Berkas"
+  "file-type": "Tipe Pengiriman Berkas",
+  "education-level-name": "Nama Instansi",
+  "education-level-succeed": "Instansi Berhasil",
+  "added": "Ditambahkan",
+  "saved": "Disimpan",
+  "education-level-failed": "Instansi Gagal",
+  "delete-edu-level-item": "Hapus Item Instansi",
+  "confirm-delete-edu-level-item": "Apakah Anda yakin untuk menghapus item instansi?",
+  "edu-level-sucessfully-deleted": "Instansi Berhasil Dihapus",
+  "edu-level-failed-deleted": "Instansi Gagal Dihapus",
+  "add-education-level": "Tambah Instansi",
+  "search-edu-level": "Cari instansi..",
+  "disimpan": "Disimpan",
+  "grade": {
+    "delete-grade-item": "Hapus Item Golongan"
+  },
+  "off-day-succeed": "Hari Libur Berhasil",
+  "off-day-failed": "Hari Libur Gagal",
+  "delete-off-day-item": "Hapus Item Hari Libur",
+  "confirm-delete-off-day-item": "Apakah Anda yakin untuk menghapus item hari libur?",
+  "off-day-succeed-deleted": "Hari Libur Berhasil Dihapus",
+  "off-day-failed-deleted": "Hari Libur Gagal Dihapus",
+  "off-day": "Hari Libur",
+  "add-off-day": "Tambah Hari Libur",
+  "select-start-end-date-yyyy": "Pilih tanggal mulai - selesai, DD/MM/YYYY",
+  "name-dont-bring-space-begin-and-end": "Nama tidak boleh menyertakan spasi di awal dan akhir",
+  "category-succeed": "Kategori Berhasil",
+  "category-failed-to-be": "Kategori Gagal",
+  "search-category": "Cari kategori..",
+  "student-type-succeed-saved": "Tipe Siswa Berhasil Disimpan",
+  "student-type-failed-saved": "Tipe Siswa Gagal Disimpan",
+  "delete-student-type-item": "Hapus Item Tipe Siswa",
+  "confirm-student-type-item": "Apakah Anda yakin untuk menghapus item Tipe Siswa?",
+  "student-type-succeed-deleted": "Tipe Siswa Berhasil Dihapus",
+  "student-type-failed-deleted": "Tipe Siswa Gagal Dihapus",
+  "statistic": {
+    "total-program": "Total Program",
+    "progress-status": "Status Pengerjaan"
+  }
 }
