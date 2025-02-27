@@ -797,13 +797,14 @@
     "choose-lang": "Choose Your Languange",
     "select-prefferred": "Select Your Preferred Language",
     "Language": "Language",
-    "hi-nisa": "Hi! \nI",
+    "hi-nisa": "Hi! I'm N.I.S.A, your learning assistant.",
     "hi-nisa-subtitle": "Let",
     "start": "Start Assessment",
     "last-day": "last day",
     "ongoing": "On going",
     "draft": "Draft",
-    "finished": "Finished"
+    "finished": "Finished",
+    "take-a-quick": "Let's take a quick assessment to personalize your learning experience!"
   },
   "chat": {
     "friend": "Friend",
@@ -957,7 +958,8 @@
     "user": "User",
     "search-user": "Search user...",
     "institution": "Education level",
-    "select-institution": "Choose the level of education .."
+    "select-institution": "Choose the level of education ..",
+    "personal-data": "Personal data"
   },
   "conference": {
     "owner-not-found": "Owner Room not found",
@@ -1458,7 +1460,7 @@
     "accept-invitation": "Receive the invitation",
     "see-detail": "See details",
     "about-program": "About the program",
-    "duration": "Program duration",
+    "duration": "Duration class",
     "day": "Day",
     "benefit-for-you": "The benefits of the program for you",
     "digital-certificate": "Digital certificate",
@@ -2682,7 +2684,8 @@
     "search-user": "Search user...",
     "filter": "Filter",
     "search-center": "Looking for the center ...",
-    "type-place": "Find the type ..."
+    "type-place": "Find the type ...",
+    "personal": "Personal"
   },
   "users": {
     "email": "E-mail",

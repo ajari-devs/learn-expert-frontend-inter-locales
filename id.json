@@ -813,13 +813,14 @@
     "choose-lang": "Choose Your Languange",
     "select-prefferred": "Select your preferred language",
     "Language": "Language",
-    "hi-nisa": "Hi! I&apos;m N.I.S.A, your learning assistant.",
+    "hi-nisa": "Hai! Saya N.I.S.A, asisten pembelajaran Anda.",
     "hi-nisa-subtitle": "Let&apos;s take a quick assessment to personalize your learning experience!",
     "start": "Start Assessment",
     "last-day": "hari terakhir",
     "ongoing": "Berlangsung",
     "draft": "Draft",
-    "finished": "Selesai"
+    "finished": "Selesai",
+    "take-a-quick": "Mari lakukan penilaian cepat untuk mempersonalisasi pengalaman belajar Anda!"
   },
   "chat": {
     "friend": "Teman",
@@ -1427,7 +1428,7 @@
     "see-detail": "Lihat Detail",
     "end-date": "Tanggal Selesai",
     "about-program": "Tentang Program",
-    "duration": "Durasi Program",
+    "duration": "Kelas Duration",
     "benefit-for-you": "Manfaat Program Untukmu",
     "learning-material": "Materi Pembelajaran",
     "program-activities": "Kegiatan Pembelajaran",
@@ -2036,7 +2037,8 @@
     "filter": "Filter",
     "search-center": "Cari pusat...",
     "type": "Tipe",
-    "type-place": "Cari tipe..."
+    "type-place": "Cari tipe...",
+    "take-a-quick": "Let's take a quick assessment to personalize your learning experience!"
   },
   "users": {
     "biodata": "Data Pribadi",
