@@ -1082,7 +1082,7 @@
     "point": "points of",
     "complete-level": "Completion rate in",
     "average-skor-up": "The average score increased",
-    "wait-scoring": "Waiting assessment",
+    "wait-scoring": "Waiting Assessment",
     "name": "Name",
     "learning-type": "Learning Type",
     "owner": "Owner",
@@ -1127,7 +1127,7 @@
     "certificate": "Certificate",
     "see-profile": "View profile",
     "end-date": "End Date",
-    "teacher-assesment": "Teacher assessment",
+    "teacher-assesment": "Teacher Assessment",
     "review": "Review",
     "rating": "Star",
     "empty-rating": "No assessment",
@@ -1569,7 +1569,12 @@
     "learning-guideline": "Learning Guideline",
     "apply-all-scoring-ai": "Apply all AI scoring",
     "schedule-not-found": "The schedule was not found, try a few more moments!",
-    "student-list": "List of students"
+    "student-list": "List of students",
+    "teachers-profile": "Teacher Profile",
+    "program-assesment": "Program Assessment",
+    "training-assesment": "Training Assessment",
+    "havent-assesment": "There is no assessment",
+    "history-assesment-will-show": "History of the assessment will appear after the participant gives an assessment"
   },
   "user": {
     "type": "Type",
