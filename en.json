@@ -311,7 +311,10 @@
     "add-widget": "Add widget",
     "class-summary": "Class Summary",
     "days": "days",
-    "total-master-teacher": "Total teacher master"
+    "total-master-teacher": "Total teacher master",
+    "total-video-duration": "Total video duration",
+    "total-read-pdf": "Total read PDF",
+    "total-read-ppt": "Total Read Ppt"
   },
   "layout": {
     "yes-leave": "Yes, Leave",
@@ -481,7 +484,7 @@
     "used": "Used",
     "not-used": "Not used",
     "completion-rate-in-last-days-0": "Completion rate in {0} last day increased",
-    "average-score": "Average value",
+    "average-score": "Average Score",
     "average-syllabus-creation-increased": "The average syllabus is increased",
     "for-0-last-dasy": "In {0} the last day.",
     "exam": "Exam",
@@ -816,7 +819,9 @@
     "last-day": "last day",
     "ongoing": "On going",
     "draft": "Draft",
-    "finished": "Finished"
+    "finished": "Finished",
+    "decrease": "decrease",
+    "increase": "increase"
   },
   "chat": {
     "friend": "Friend",
@@ -1187,7 +1192,7 @@
     "student-failed": "Students fail",
     "success": "Succeed",
     "failed": "Fail",
-    "remedial-value": "Remedial value",
+    "remedial-value": "Remedial score",
     "activities": "Activity",
     "last-data-increase": "The last day increased",
     "syllabus-program": "Program Syllabus",
@@ -1515,7 +1520,14 @@
     "grade-failed-deleted": "The failed group was removed",
     "add-grade": "Add Grade",
     "search-grade": "Search grades ..",
-    "search-institution": "Find the level of education ..."
+    "search-institution": "Find the level of education ...",
+    "learning-date": "Learning Date",
+    "detail-learning": "Learning details",
+    "topic": "Topic",
+    "last-day": "last day.",
+    "start-learning": "Start learning",
+    "continue-learning": "Continue learning",
+    "download-certificate": "Download the certificate"
   },
   "user": {
     "type": "Type",
@@ -1797,7 +1809,7 @@
       "quiz-get-the": "This quiz will take",
       "highest-score": "the highest score",
       "overall-trial-quiz": "of all experiments. \nThe quiz will be automatically collected if time runs out!",
-      "avereage-score": "average value",
+      "avereage-score": "Average Score",
       "overall-test-quiz": "of all experiments. \nThe quiz is",
       "no-collect": "not yet collected",
       "no-quiz-scoring": "will not be assessed (the quiz is not automatically collected)",
@@ -2373,7 +2385,7 @@
         "quiz-get-the": "This quiz will take",
         "highest-score": "the highest score",
         "overall-trial-quiz": "of all experiments. \nThe quiz will be automatically collected if time runs out!",
-        "avereage-score": "average value",
+        "avereage-score": "Average Score",
         "overall-test-quiz": "of all experiments. \nThe quiz is",
         "no-collect": "not yet collected",
         "no-quiz-scoring": "will not be assessed (the quiz is not automatically collected)",
@@ -2859,5 +2871,9 @@
   "student-type-failed-saved": "The type of student failed to be saved",
   "confirm-student-type-item": "Are you sure to delete student type items?",
   "student-type-succeed-deleted": "The type of student was successfully deleted",
-  "student-type-failed-deleted": "The type of student failed to be deleted"
+  "student-type-failed-deleted": "The type of student failed to be deleted",
+  "statistic": {
+    "total-program": "Total programs",
+    "progress-status": "Work status"
+  }
 }

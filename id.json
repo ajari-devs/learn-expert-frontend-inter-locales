@@ -323,7 +323,10 @@
     "add-widget": "Tambah Widget",
     "class-summary": "Class Summary",
     "days": "hari",
-    "total-master-teacher": "Total Master Guru"
+    "total-master-teacher": "Total Master Guru",
+    "total-video-duration": "Total Durasi Video",
+    "total-read-pdf": "Total Baca PDF",
+    "total-read-ppt": "Total Baca PPT"
   },
   "layout": {
     "yes-leave": "Ya, Keluar",
@@ -830,7 +833,9 @@
     "last-day": "hari terakhir",
     "ongoing": "Berlangsung",
     "draft": "Draft",
-    "finished": "Selesai"
+    "finished": "Selesai",
+    "decrease": "menurun",
+    "increase": "meningkat"
   },
   "chat": {
     "friend": "Teman",
@@ -2204,5 +2209,9 @@
   "delete-student-type-item": "Hapus Item Tipe Siswa",
   "confirm-student-type-item": "Apakah Anda yakin untuk menghapus item Tipe Siswa?",
   "student-type-succeed-deleted": "Tipe Siswa Berhasil Dihapus",
-  "student-type-failed-deleted": "Tipe Siswa Gagal Dihapus"
+  "student-type-failed-deleted": "Tipe Siswa Gagal Dihapus",
+  "statistic": {
+    "total-program": "Total Program",
+    "progress-status": "Status Pengerjaan"
+  }
 }
