@@ -114,7 +114,8 @@
     "file-not-permitted": "Files are not permitted",
     "upload-limit": "Upload limit",
     "loading-file-duration": "Is loading the file duration",
-    "remain-seconds": "the remaining seconds"
+    "remain-seconds": "remaining seconds",
+    "filesize-exceed-limit-0": "The file size exceeds the limit {0}"
   },
   "table": {
     "data-not-found": "Data was not found",
@@ -316,7 +317,10 @@
     "add-widget": "Add widget",
     "class-summary": "Class Summary",
     "days": "days",
-    "total-master-teacher": "Total teacher master"
+    "total-master-teacher": "Total teacher master",
+    "total-video-duration": "Total video duration",
+    "total-read-pdf": "Total read PDF",
+    "total-read-ppt": "Total Read Ppt"
   },
   "layout": {
     "yes-leave": "Yes, Leave",
@@ -486,7 +490,7 @@
     "used": "Used",
     "not-used": "Not used",
     "completion-rate-in-last-days-0": "Completion rate in {0} last day increased",
-    "average-score": "Average value",
+    "average-score": "Average Score",
     "average-syllabus-creation-increased": "The average syllabus is increased",
     "for-0-last-dasy": "In {0} the last day.",
     "exam": "Exam",
@@ -555,7 +559,7 @@
     "caption-remove-item-bank-question": "Are you sure to delete question bank items?",
     "question-deleted": "The question was successfully deleted",
     "question-failed-deleted": "Problem failure to be deleted",
-    "search-question": "Looking for questions ..",
+    "search-question": "Search questions ..",
     "placeholder-select-tipe-question": "Choose the type of problem",
     "must-selected": "Must be selected",
     "category-failed-create": "Failure category is made",
@@ -601,7 +605,7 @@
     "manual-question": "Manual questions",
     "placeholder-export-file": "Select File Export Format",
     "export-question": "Export Question",
-    "question-ai": "AI Questions",
+    "question-ai": "AI Question",
     "subtitle-remove-category": "Are you sure to delete category item?",
     "success-download-template": "Templates were successfully downloaded",
     "failed-download-template": "Templates failed to download",
@@ -621,7 +625,18 @@
     "back": "Back",
     "save": "Save",
     "cancel": "Cancel",
-    "search-question-bank": "Search question bank .."
+    "search-question-bank": "Search question bank ..",
+    "failed-create-ai-question": "Failed to make AI questions",
+    "generate-question": "Generate questions",
+    "select-topic": "Choose a topic",
+    "ai-topic": "AI topic",
+    "try-again": "Try again",
+    "case-study": "Case study questions",
+    "max-question": "Max questions is",
+    "available": "Available",
+    "multiple-choice-question": "multiple choice questions",
+    "multiple-answer": "Double answer",
+    "essay-question": "Essay question"
   },
   "message": {
     "failed-copied": ""
@@ -810,7 +825,9 @@
     "last-day": "last day",
     "ongoing": "On going",
     "draft": "Draft",
-    "finished": "Finished"
+    "finished": "Finished",
+    "decrease": "decrease",
+    "increase": "increase"
   },
   "chat": {
     "friend": "Friend",
@@ -1124,7 +1141,7 @@
     "reject": "Reject",
     "accept": "Accept",
     "position": "Position",
-    "search-participant": "Looking for students ..",
+    "search-participant": "Search participants ..",
     "you-have-been-fail-try-again": "You fail to give disqualification. \nPlease try again",
     "was-disqualified": "has been disqualified",
     "has-been-sanction": "Sanctions have been given",
@@ -1171,17 +1188,17 @@
     "wont-start": "Haven't started yet",
     "wont-learning": "There is no learning yet",
     "end-dates": "End date",
-    "search-central": "Looking for the school ...",
+    "search-central": "Search center ...",
     "search-type": "Find the type ...",
     "type": "Type",
-    "search-status": "Looking for status ..",
+    "search-status": "Search status ..",
     "reset": "Reset",
     "show": "Show",
     "student-success": "Students succeed",
     "student-failed": "Students fail",
     "success": "Succeed",
     "failed": "Fail",
-    "remedial-value": "Remedial value",
+    "remedial-value": "Remedial score",
     "activities": "Activity",
     "last-data-increase": "The last day increased",
     "syllabus-program": "Program Syllabus",
@@ -1433,7 +1450,7 @@
     "total-sanction": "Total panalty",
     "total-violation": "Total violations",
     "training": "Training",
-    "search-training": "Looking for training ..",
+    "search-training": "Search training ..",
     "recomendation": "Recommendation",
     "see-all": "See all",
     "hide": "Hide",
@@ -1511,7 +1528,6 @@
     "search-grade": "Search grades ..",
     "search-institution": "Find the level of education ...",
     "search-learning": "Search learning ..",
-    "last-day": "last day.",
     "end": "Finished",
     "from-prediction": "from predicted time.",
     "about-material": "About Material",
@@ -1519,7 +1535,14 @@
     "passing-min-score-0": "The minimum score of graduation: {0}",
     "suggestion": "Suggestion",
     "member": "Member",
-    "lead": "Lead"
+    "lead": "Lead",
+    "learning-date": "Learning Date",
+    "detail-learning": "Learning details",
+    "topic": "Topic",
+    "last-day": "last day.",
+    "start-learning": "Start learning",
+    "continue-learning": "Continue learning",
+    "download-certificate": "Download the certificate"
   },
   "user": {
     "type": "Type",
@@ -1801,7 +1824,7 @@
       "quiz-get-the": "This quiz will take",
       "highest-score": "the highest score",
       "overall-trial-quiz": "of all experiments. \nThe quiz will be automatically collected if time runs out!",
-      "avereage-score": "average value",
+      "avereage-score": "Average Score",
       "overall-test-quiz": "of all experiments. \nThe quiz is",
       "no-collect": "not yet collected",
       "no-quiz-scoring": "will not be assessed (the quiz is not automatically collected)",
@@ -1889,7 +1912,7 @@
       "current-empty-review": "At present, you don't have a review of students.",
       "self": "Individual",
       "student-list": "List of students",
-      "brows-student": "Looking for students ..",
+      "brows-student": "Search students ..",
       "failed-disqualification": "You fail to give disqualification. \nPlease try again",
       "disqualification": "has been disqualified",
       "has-ben-given-saction": "Sanctions have been given",
@@ -2377,7 +2400,7 @@
         "quiz-get-the": "This quiz will take",
         "highest-score": "the highest score",
         "overall-trial-quiz": "of all experiments. \nThe quiz will be automatically collected if time runs out!",
-        "avereage-score": "average value",
+        "avereage-score": "Average Score",
         "overall-test-quiz": "of all experiments. \nThe quiz is",
         "no-collect": "not yet collected",
         "no-quiz-scoring": "will not be assessed (the quiz is not automatically collected)",
@@ -2465,7 +2488,7 @@
         "current-empty-review": "At present, you don't have a review of students.",
         "self": "Individual",
         "student-list": "List of students",
-        "brows-student": "Looking for students ..",
+        "brows-student": "Search students ..",
         "failed-disqualification": "You fail to give disqualification. \nPlease try again",
         "disqualification": "has been disqualified",
         "has-ben-given-saction": "Sanctions have been given",
@@ -2578,9 +2601,9 @@
         "status": "Status",
         "filter": "Filter",
         "search-position": "Find a position ...",
-        "search-institution": "Looking for Education level ...",
-        "search-group": "Looking for groups ...",
-        "search-status": "Looking for status ..",
+        "search-institution": "Search institution ...",
+        "search-group": "Search groups ...",
+        "search-status": "Search status ..",
         "reset": "Reset",
         "show": "Show",
         "search-participant": "Search students ..",
@@ -2615,8 +2638,8 @@
         "summary": "Summary",
         "list-training": "Training list",
         "search-training": "Search training ..",
-        "search-central": "Looking for the school ...",
-        "search-learning": "Looking for learning ..",
+        "search-central": "Search center ...",
+        "search-learning": "Search learning ..",
         "type": "Type",
         "search-type": "Find the type ...",
         "no-data": "No data",
@@ -2648,7 +2671,7 @@
         "save": "Save",
         "next": "Next",
         "filter": "Filter",
-        "search-center": "Looking for the School ...",
+        "search-center": "Search center ...",
         "type": "Type",
         "type-place": "Find the type ..."
       },
@@ -2706,7 +2729,7 @@
     "parent-info": "Parent Information",
     "search-user": "Search user...",
     "filter": "Filter",
-    "search-center": "Looking for the school ...",
+    "search-center": "Search center ...",
     "type-place": "Find the type ..."
   },
   "users": {
@@ -2731,7 +2754,7 @@
       "real-time": "Today (real time)"
     }
   },
-  "search-center": "Looking for the school ...",
+  "search-center": "Search center ...",
   "type": "Type",
   "type-place": "Find the type ...",
   "currently": "Currently",
@@ -2881,5 +2904,9 @@
   "average-score": "Average score",
   "program-offline-activity": "Offline Activity",
   "performing-duration": "Completion Rate",
-  "select-sched-class": "Choose class schedule"
+  "select-sched-class": "Choose class schedule",
+  "statistic": {
+    "total-program": "Total programs",
+    "progress-status": "Work status"
+  }
 }

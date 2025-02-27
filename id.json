@@ -329,7 +329,10 @@
     "add-widget": "Tambah Widget",
     "class-summary": "Class Summary",
     "days": "hari",
-    "total-master-teacher": "Total Master Guru"
+    "total-master-teacher": "Total Master Guru",
+    "total-video-duration": "Total Durasi Video",
+    "total-read-pdf": "Total Baca PDF",
+    "total-read-ppt": "Total Baca PPT"
   },
   "layout": {
     "yes-leave": "Ya, Keluar",
@@ -634,7 +637,18 @@
     "back": "Kembali",
     "save": "Simpan",
     "cancel": "Batal",
-    "search-question-bank": "Cari bank soal.."
+    "search-question-bank": "Cari bank soal..",
+    "failed-create-ai-question": "Gagal Membuat Soal AI",
+    "generate-question": "Generate Soal",
+    "select-topic": "Pilih topik",
+    "ai-topic": "Topik AI",
+    "try-again": "Coba lagi",
+    "case-study": "Soal Studi Kasus",
+    "max-question": "Maks. jumlah soal adalah",
+    "available": "Tersedia",
+    "multiple-choice-question": "soal pilihan ganda",
+    "multiple-answer": "Jawaban Ganda",
+    "essay-question": "Soal Esai"
   },
   "Dashboard": {
     "instant-meeting": "Rapat Instan",
@@ -825,7 +839,9 @@
     "last-day": "hari terakhir",
     "ongoing": "Berlangsung",
     "draft": "Draft",
-    "finished": "Selesai"
+    "finished": "Selesai",
+    "decrease": "menurun",
+    "increase": "meningkat"
   },
   "chat": {
     "friend": "Teman",
@@ -2219,5 +2235,9 @@
   "failed-load-pdf": "Gagal Memuat PDF",
   "page": "Halaman",
   "average-score": "Nilai Rata-rata",
-  "select-sched-class": "Pilih Jadwal Kelas"
+  "select-sched-class": "Pilih Jadwal Kelas",
+  "statistic": {
+    "total-program": "Total Program",
+    "progress-status": "Status Pengerjaan"
+  }
 }
