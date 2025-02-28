@@ -995,7 +995,8 @@
     "call-time": "Panggilan selama",
     "minutes": "menit",
     "owner-not-found": "Pemilik instant meeting tidak ditemukan",
-    "room-not-found": "Room tidak ditemukan"
+    "room-not-found": "Room tidak ditemukan",
+    "success-create-chat": "Berhasil membuat chat"
   },
   "user-management": {
     "user": "Pengguna",

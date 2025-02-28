@@ -976,7 +976,9 @@
     "owner-not-found": "Owner Room not found",
     "room-not-found": "Room is not found",
     "fail-delete": "The message failed to be deleted",
-    "contact-fail-delete": "The contact failed to be deleted"
+    "contact-fail-delete": "The contact failed to be deleted",
+    "contact-success-delete": "Contact successfully deleted",
+    "success-create-chat": "Success to create chat"
   },
   "user-management": {
     "user": "User",
