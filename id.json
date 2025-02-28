@@ -488,7 +488,10 @@
     "try-again": "Coba Lagi",
     "failed-face-verification": "Gagal mengunggah wajah.",
     "face-registration-success": "Registrasi wajah berhasil.",
-    "success-login": "Selamat Anda Berhasil Masuk."
+    "success-login": "Selamat Anda Berhasil Masuk.",
+    "face-was-registered": "Wajah sudah teregistrasi",
+    "back-to-profile": "Kembali Ke Profil",
+    "face-verif-desc": "Lakukan pengaturan verifikasi wajah untuk memudahkan Anda dalam menjalankan program."
   },
   "silabus": {
     "remove-syllabus-item": "Hapus Item Silabus",

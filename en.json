@@ -68,7 +68,7 @@
     "success-change-name": "Managed to change the name",
     "success-move": "Successfully move",
     "public": "Public",
-    "private": "Personal",
+    "private": "Private",
     "success-save-doc": "Successfully save the document",
     "doc-succes-deleted": "The document was successfully deleted",
     "cancel": "Cancel",
@@ -351,7 +351,7 @@
     "validation-requaired": "Must be filled",
     "name-required": "Name is required",
     "susscess_edit_biodata": "Personal data successfully saved",
-    "face-verification": "Face verification",
+    "face-verification": "Face Verification",
     "biodata": "Personal data",
     "edit": "Update",
     "name": "Name",
@@ -480,7 +480,10 @@
     "try-again": "Try again",
     "failed-face-verification": "Failed to upload face.",
     "face-registration-success": "Face Registration Success",
-    "success-login": "Congratulations, login success."
+    "success-login": "Congratulations, login success.",
+    "face-was-registered": "The face has been registered",
+    "back-to-profile": "Back to Profile",
+    "face-verif-desc": "Perform face verification settings to make it easier for you to run the program."
   },
   "silabus": {
     "remove-syllabus-item": "Delete syllabus items",
@@ -2785,7 +2788,7 @@
     "filter": "Filter",
     "search-center": "Looking for the center ...",
     "type-place": "Find the type ...",
-    "personal": "Personal",
+    "personal": "Private",
     "training": "Training",
     "see-detail": "See details",
     "upcoming": "Upcoming",
