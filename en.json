@@ -634,9 +634,9 @@
     "case-study": "Case study questions",
     "max-question": "Max questions is",
     "available": "Available",
-    "multiple-choice-question": "multiple choice questions",
+    "multiple-choice-question": "multiple choice",
     "multiple-answer": "Double answer",
-    "essay-question": "Essay question"
+    "essay-question": "Essay"
   },
   "message": {
     "failed-copied": ""
@@ -1545,6 +1545,7 @@
     "start-learning": "Start learning",
     "continue-learning": "Continue learning",
     "download-certificate": "Download the certificate",
+    "no-limit": "No limit",
     "plagiarism-percent": "Plagiarism",
     "maximun-value": "Maximum value",
     "case": "Case",
@@ -2941,7 +2942,7 @@
   "max-total-question-is-0": "Max. the number of questions is {0}",
   "available-0-multi-choice-question": "Available {0} multiple choice questions",
   "multiple-choice": "Multiple Choice Questions",
-  "essay-question": "Essay Questions",
+  "essay-question": "Essay",
   "available-0-essay-question": "Available {0} Essay selection questions",
   "failed-load-pdf": "Failed to load PDF",
   "page": "Page",
@@ -2956,7 +2957,6 @@
   "makeup-quiz": "Makeup Quiz",
   "ai-score": "AI Score",
   "remaining-time": "Remaining time:",
-  "search-student": "Looking for students ..",
   "sched-class-on-going": "Class schedule is already ongoing!",
   "you-selected-sched-class-succeed": "You choosen a class schedule successfully!",
   "failed-choose-sched-class": "Failure to choose a class schedule!",
@@ -3062,6 +3062,12 @@
     "class-information": "Class information"
   },
   "student": "Student",
+  "hour-duration": "Hour Duration",
+  "minute-duration": "Minute Duration",
+  "batal": "Cancel",
+  "save": "Save",
+  "search-student": "Search students ..",
+  "name": "Name",
   "hours": "hours",
   "presence": "Present",
   "permit": "Permission",
@@ -3102,6 +3108,6 @@
   "please-try-again-later": "Please try again after a few moments!",
   "yes-back": "Yes, back",
   "loading-learning-guideline": "Loading Learning Guideline",
-  "audio-learning-guideline-not-available": "Audio Learning Guideline is not available",
-  "multi-choice-multi-answer": "Multiple Choice • Multiple Answer"
+  "multi-choice-multi-answer": "Multiple Choice • Multiple Answer",
+  "audio-learning-guideline-not-available": "Audio Learning Guideline is not available"
 }
