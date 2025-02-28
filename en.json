@@ -472,7 +472,15 @@
     "assesment-history": "History of Assessment",
     "logout": "Go out",
     "update-now": "Update now",
-    "birthday": "Date of birth"
+    "birthday": "Date of birth",
+    "face-verification-desc": "Verify the face before starting.",
+    "start-verification": "Start verification",
+    "make-sure-face-on-circle": "Make sure your face in this circle",
+    "continue-check-regulation": "Continue to check the requirements",
+    "try-again": "Try again",
+    "failed-face-verification": "Failed to upload face.",
+    "face-registration-success": "Face Registration Success",
+    "success-login": "Congratulations, login success."
   },
   "silabus": {
     "remove-syllabus-item": "Delete syllabus items",

@@ -480,7 +480,15 @@
     "biodata-1": "Data pribadi",
     "history-violation": "Riwayat Sanksi",
     "assesment-history": "Riwayat Penilaian",
-    "logout": "Keluar"
+    "logout": "Keluar",
+    "face-verification-desc": "Lakukan verifikasi wajah sebelum memulai.",
+    "start-verification": "Mulai Verifikasi",
+    "make-sure-face-on-circle": "Pastikan wajah anda pada lingkaran ini",
+    "continue-check-regulation": "Lanjut Cek Persyaratan",
+    "try-again": "Coba Lagi",
+    "failed-face-verification": "Gagal mengunggah wajah.",
+    "face-registration-success": "Registrasi wajah berhasil.",
+    "success-login": "Selamat Anda Berhasil Masuk."
   },
   "silabus": {
     "remove-syllabus-item": "Hapus Item Silabus",
