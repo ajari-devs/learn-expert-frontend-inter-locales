@@ -2774,7 +2774,19 @@
     "filter": "Filter",
     "search-center": "Looking for the center ...",
     "type-place": "Find the type ...",
-    "personal": "Personal"
+    "personal": "Personal",
+    "training": "Training",
+    "see-detail": "See details",
+    "upcoming": "Upcoming",
+    "ongoing": "Ongoing",
+    "finish": "Finished",
+    "sanction": "Sanctions & Violation",
+    "violation": "Violation",
+    "learning": "Learning",
+    "duration": "Duration",
+    "summary": "Summary",
+    "training-list": "Training list",
+    "search-training": "Search training .."
   },
   "users": {
     "email": "E-mail",
@@ -3111,5 +3123,7 @@
   "yes-back": "Yes, back",
   "loading-learning-guideline": "Loading Learning Guideline",
   "multi-choice-multi-answer": "Multiple Choice • Multiple Answer",
-  "audio-learning-guideline-not-available": "Audio Learning Guideline is not available"
+  "audio-learning-guideline-not-available": "Audio Learning Guideline is not available",
+  "presented-by": "Presented by",
+  "help-center": "Help Center"
 }

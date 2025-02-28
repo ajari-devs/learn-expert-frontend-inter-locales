@@ -1351,7 +1351,19 @@
     "success-add-teacher": "Guru Berhasil Ditambahkan",
     "teacher-detail": "Detail Guru",
     "parent-data": "Data Orangtua",
-    "parent-info": "Informasi Orangtua"
+    "parent-info": "Informasi Orangtua",
+    "training": "Pelatihan",
+    "see-detail": "Lihat Detail",
+    "upcoming": "Akan Datang",
+    "ongoing": "Berlangsung",
+    "finish": "Selesai",
+    "sanction": "Sanksi & Pelanggaran",
+    "violation": "Pelanggaran",
+    "learning": "Pembelajaran",
+    "duration": "Durasi",
+    "summary": "Ringkasan",
+    "training-list": "Daftar Pelatihan",
+    "search-training": "Cari pelatihan.."
   },
   "batal": "Batal",
   "chat-hasnt-empty": "Pesan tidak boleh kosong",
@@ -2416,5 +2428,7 @@
   "audio-learning-guideline-not-available": "Panduan belajar audio tidak tersedia",
   "multi-choice-multi-answer": "Pilihan Ganda • Jawaban Ganda",
   "max-upload-0-file": "Maksimum unggah {0} file",
-  "file-type-0": "Tipe Berkas: {0}"
+  "file-type-0": "Tipe Berkas: {0}",
+  "presented-by": "Dipersembahkan Oleh",
+  "help-center": "Pusat Perbantuan"
 }
