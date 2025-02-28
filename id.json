@@ -2413,5 +2413,8 @@
   "please-try-again-later": "Silahkan coba lagi setelah beberapa saat!",
   "yes-back": "Ya, Kembali",
   "loading-learning-guideline": "Sedang memuat panduan belajar",
-  "audio-learning-guideline-not-available": "Panduan belajar audio tidak tersedia"
+  "audio-learning-guideline-not-available": "Panduan belajar audio tidak tersedia",
+  "multi-choice-multi-answer": "Pilihan Ganda • Jawaban Ganda",
+  "max-upload-0-file": "Maksimum unggah {0} file",
+  "file-type-0": "Tipe Berkas: {0}"
 }
