@@ -2822,7 +2822,7 @@
     "question": "Question",
     "file-submission": "File submission",
     "type-question-here": "Type your question here ..",
-    "multiple-choice": "Multiple choice",
+    "multiple-choice": "Multiple Choice",
     "essay": "Essay",
     "sort": "Sort",
     "match": "Matching",
@@ -3102,5 +3102,6 @@
   "please-try-again-later": "Please try again after a few moments!",
   "yes-back": "Yes, back",
   "loading-learning-guideline": "Loading Learning Guideline",
-  "audio-learning-guideline-not-available": "Audio Learning Guideline is not available"
+  "audio-learning-guideline-not-available": "Audio Learning Guideline is not available",
+  "multi-choice-multi-answer": "Multiple Choice • Multiple Answer"
 }
