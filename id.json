@@ -1447,7 +1447,20 @@
     "before-day": "1 Hari Sebelumnya",
     "on-webinar": "Pada Waktu Webinar",
     "select-start-date": "Pilih tanggal mulai",
-    "instant-meeting": "Rapat Instan"
+    "instant-meeting": "Rapat Instan",
+    "name-dont-bring-space-begin-and-end": "Nama tidak boleh menyertakan spasi di awal dan akhir",
+    "fill-required": "Harus di isi",
+    "start-time-is-required": "Start time is required",
+    "thumbnail-must-filled": "Thumbnail harus diisi",
+    "show-must-be-fill": "Show harus diisi",
+    "role": {
+      "must-be-fill": "Role harus diisi"
+    },
+    "role-must-be-fill": "Role harus diisi",
+    "position-must-be-fill": "Posisi harus diisi",
+    "edu-level-must-be-fill": "Instansi harus diisi",
+    "city-must-be-fill": "Kota harus diisi",
+    "user-must-be-filled": "User harus diisi"
   },
   "program": {
     "info-title": "Masih bingung pilih program yang tepat?",
@@ -2497,5 +2510,16 @@
   "cancel": "Cancel",
   "quiz-desc": "Deskripsi Kuis",
   "max-score": "Nilai Maksimum",
-  "performace-time": "Waltu Pengerjaan"
+  "performace-time": "Waltu Pengerjaan",
+  "start-time-required": "Start time is required",
+  "failed-saving-webinar": "Gagal Menyimpan Webinar",
+  "other-student": "Siswa Lainnya",
+  "cant-join-webinar": "Tidak dapat bergabung ke webinar",
+  "delete-webinar-item": "Hapus Item Webinar",
+  "confirm-delete-webinar-item": "Apakah Anda yakin untuk menghapus item webinar?",
+  "webinar-succeed-deleted": "Webinar Berhasil Dihapus",
+  "webinar-failed-deleted": "Webinar Gagal Dihapus",
+  "detail-webinar": "Detail Webinar",
+  "join-webinar": "Gabung Webinar",
+  "webinar-summary": "Ringkasan Webinar"
 }
