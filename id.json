@@ -1460,7 +1460,21 @@
     "position-must-be-fill": "Posisi harus diisi",
     "edu-level-must-be-fill": "Instansi harus diisi",
     "city-must-be-fill": "Kota harus diisi",
-    "user-must-be-filled": "User harus diisi"
+    "user-must-be-filled": "User harus diisi",
+    "confirm-end-meet": "Yakin ingin mengakhiri rapat?",
+    "message-succeed-copied": "Pesan berhasil disalin",
+    "message-failed-copied": "Pesan gagal disalin",
+    "confirm-end-meet-desc": "Ruang rapat akan dihapus setelah anda mengakhiri.",
+    "yes-end": "Ya, Akhiri",
+    "end-for-all": "Akhir Rapat untuk semua",
+    "out-meeting": "Keluar Rapat",
+    "general": "Umum",
+    "start-recording": "Mulai Merekam",
+    "choose-background": "Pilih Latar Belakang",
+    "setting": "Pengaturan",
+    "performance-setting": "Pengaturan Performa",
+    "security-option": "Opsi Keamanan",
+    "general-setting": "Pengaturan Umum"
   },
   "program": {
     "info-title": "Masih bingung pilih program yang tepat?",

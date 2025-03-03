@@ -1080,7 +1080,21 @@
     "position-must-be-fill": "Position must be filled",
     "edu-level-must-be-fill": "Education level must be filled in",
     "city-must-be-fill": "The city must be filled",
-    "user-must-be-filled": "User must be filled"
+    "user-must-be-filled": "User must be filled",
+    "message-succeed-copied": "The message was copied",
+    "message-failed-copied": "The message failed copied",
+    "confirm-end-meet-desc": "The meeting room will be deleted after you end.",
+    "confirm-end-meet": "Are you sure you want to end the meeting?",
+    "yes-end": "Yes, end",
+    "end-for-all": "The end of the meeting for all",
+    "out-meeting": "Out Meeting",
+    "general": "General",
+    "start-recording": "Start recording",
+    "choose-background": "Choose the background",
+    "setting": "Arrangement",
+    "performance-setting": "Performance setting",
+    "security-option": "Security option",
+    "general-setting": "General Settings"
   },
   "program": {
     "ongoing": "Ongoing",
