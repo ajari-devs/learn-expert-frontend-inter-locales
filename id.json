@@ -2521,5 +2521,10 @@
   "webinar-failed-deleted": "Webinar Gagal Dihapus",
   "detail-webinar": "Detail Webinar",
   "join-webinar": "Gabung Webinar",
-  "webinar-summary": "Ringkasan Webinar"
+  "webinar-summary": "Ringkasan Webinar",
+  "delete-learning": "Hapus Pembelajaran",
+  "confirm-delete-learning": "Apakah Anda yakin untuk menghapus pembelajaran?",
+  "0-succeed-deleted": "{0} berhasil dihapus.",
+  "0-failed-tobe-deleted": "{0} gagal dihapus.",
+  "available-seat": "Kursi Tersedia"
 }
