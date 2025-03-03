@@ -2580,5 +2580,6 @@
   "confirm-delete-learning": "Apakah Anda yakin untuk menghapus pembelajaran?",
   "0-succeed-deleted": "{0} berhasil dihapus.",
   "0-failed-tobe-deleted": "{0} gagal dihapus.",
-  "available-seat": "Kursi Tersedia"
+  "available-seat": "Kursi Tersedia",
+  "teacher-raw": "Teacher"
 }
