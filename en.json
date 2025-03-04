@@ -1645,13 +1645,13 @@
     "next-do": "Continue working",
     "no-collect": "not yet collected",
     "highest-score": "highest score",
-    "status-time": "Time status",
-    "time-left": "Remaining time",
-    "list-question": "List of questions",
-    "next-question": "Next question",
-    "next-answer": "Next Answer",
-    "mark-for-check-again": "Mark to be examined again",
-    "question-locked": "Locked question",
+    "status-time": "Time Status",
+    "time-left": "Remaining Time",
+    "next-question": "Next Question",
+    "next-answer": "Answered Question",
+    "question-locked": "Locked Question",
+    "mark-for-check-again": "Mark to check again",
+    "list-question": "Question List",
     "seat-left": "Seat available",
     "by": "By",
     "learning-duration": "Learning Duration",
@@ -3066,7 +3066,7 @@
   "average-score": "Average score",
   "program-offline-activity": "Offline Activity",
   "performing-duration": "Completion Rate",
-  "select-sched-class": "Choose class schedule",
+  "select-sched-class": "Choose Class Schedule",
   "statistic": {
     "total-program": "Total programs",
     "progress-status": "Work status"
@@ -3305,5 +3305,10 @@
   "webinar-succeed-deleted": "Webinar was successfully deleted",
   "webinar-failed-deleted": "Webinar failed to be deleted",
   "join-webinar": "Join Webinar",
-  "webinar-summary": "Webinar Summary"
+  "webinar-summary": "Webinar Summary",
+  "delete-learning": "Delete Learning",
+  "confirm-delete-learning": "Are you sure to delete learning?",
+  "0-succeed-deleted": "{0} successfully deleted.",
+  "0-failed-tobe-deleted": "{0} failed to be deleted.",
+  "available-seat": "Seats available"
 }
