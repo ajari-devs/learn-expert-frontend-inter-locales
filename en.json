@@ -1663,7 +1663,8 @@
     "permission-sent": "The permit application was successfully sent!",
     "permission-fail-sent": "Application for a failure permit to be sent!",
     "fail-upload": "Failed to upload files.",
-    "user-not-found": "Users are not found, try a few more moments!"
+    "user-not-found": "Users are not found, try a few more moments!",
+    "mark": "Mark"
   },
   "user": {
     "type": "Type",
