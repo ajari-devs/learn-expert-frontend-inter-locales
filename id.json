@@ -2118,7 +2118,7 @@
     "maximun-value": "Nilai Maksimal",
     "case": "Kasus",
     "learning-complated": "Pembelajaran Berhasil",
-    "student-id": "NIK",
+    "student-id": "ID",
     "id-student": "ID Siswa",
     "average-progress": "Rata-Rata Pengerjaan",
     "average-focis": "Fokus Rata-Rata",
@@ -2130,7 +2130,8 @@
     "prohibited-move-screen": "Dilarang berpindah layar",
     "finish": "Selesai",
     "seat-left": "Kursi Tersedia",
-    "type-uji-kompetensi": "Uji Kompetensi"
+    "type-uji-kompetensi": "Uji Kompetensi",
+    "mark": "Tandai"
   },
   "program-start-test-now": "Kerjakan Sekarang",
   "school": "Sekolah",
