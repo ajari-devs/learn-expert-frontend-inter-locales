@@ -491,7 +491,19 @@
     "success-login": "Selamat Anda Berhasil Masuk.",
     "face-was-registered": "Wajah sudah teregistrasi",
     "back-to-profile": "Kembali Ke Profil",
-    "face-verif-desc": "Lakukan pengaturan verifikasi wajah untuk memudahkan Anda dalam menjalankan program."
+    "face-verif-desc": "Lakukan pengaturan verifikasi wajah untuk memudahkan Anda dalam menjalankan program.",
+    "waitingfill": "Menunggu Pengisian",
+    "need-update": "Perlu Pembaruan",
+    "verified": "Terverifikasi",
+    "approved": "Disetujui",
+    "enter-student-id": "Masukan id siswa..",
+    "enter-biodata": "Masukan biodata..",
+    "select-year-graduate": "Pilih tahun lulus",
+    "change-data-working": "Ubah Data Pekerjaan",
+    "select-cities": "Pilih kabupaten/kota..",
+    "enter-email": "Masukan email kantor..",
+    "enter-address": "Masukan alamat kantor..",
+    "enter-place-email": "Masukan email atasan.."
   },
   "silabus": {
     "remove-syllabus-item": "Hapus Item Silabus",

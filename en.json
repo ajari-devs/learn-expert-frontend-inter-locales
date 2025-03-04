@@ -483,7 +483,19 @@
     "success-login": "Congratulations, login success.",
     "face-was-registered": "The face has been registered",
     "back-to-profile": "Back to Profile",
-    "face-verif-desc": "Perform face verification settings to make it easier for you to run the program."
+    "face-verif-desc": "Perform face verification settings to make it easier for you to run the program.",
+    "waitingfill": "Waiting for filling",
+    "need-update": "Need an update",
+    "verified": "Verified",
+    "approved": "Approved",
+    "enter-student-id": "Enter Student ID...",
+    "enter-biodata": "Enter biodata ..",
+    "select-year-graduate": "Choose the year of graduation",
+    "change-data-working": "Change job data",
+    "select-cities": "Choose Regency/City ..",
+    "enter-email": "Enter office email ..",
+    "enter-address": "Enter office address ..",
+    "enter-place-email": "Enter the boss's email .."
   },
   "silabus": {
     "remove-syllabus-item": "Delete syllabus items",
@@ -798,7 +810,8 @@
       "request-failed": "Friend Request Failed to Confirm",
       "search_contact": "Search for friends, friend requests..",
       "email_placeholder": "Enter email..",
-      "calling_not_found": "No Call"
+      "calling_not_found": "No Call",
+      "TTL_Placeholder": "Select Date of Birth, DD/MM/YYYY"
     },
     "Dashboard": {
       "parent": "Sanction & Violation",
@@ -820,7 +833,8 @@
       "biodata": "Personal data",
       "central_placeholder": "Select school...",
       "porfile_edit": "Change Personal Data",
-      "setting": "Settings"
+      "setting": "Settings",
+      "place_birth_placeholder": "Enter the place of birth .."
     },
     "success_switch_role": "Role Changed Successfully",
     "failed_change_role": "Role Failed to Change",
