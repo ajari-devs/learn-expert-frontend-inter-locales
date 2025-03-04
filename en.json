@@ -1654,7 +1654,16 @@
     "list-question": "Question List",
     "seat-left": "Seat available",
     "by": "By",
-    "learning-duration": "Learning Duration"
+    "learning-duration": "Learning Duration",
+    "learning-name": "Learning name",
+    "see-certificate": "See certificate",
+    "end-test-detail": "Details of the final result",
+    "score-learning-activities": "Learning activity score",
+    "absen-presence": "Attendance presence",
+    "permission-sent": "The permit application was successfully sent!",
+    "permission-fail-sent": "Application for a failure permit to be sent!",
+    "fail-upload": "Failed to upload files.",
+    "user-not-found": "Users are not found, try a few more moments!"
   },
   "user": {
     "type": "Type",
