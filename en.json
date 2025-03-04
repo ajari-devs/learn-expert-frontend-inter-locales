@@ -1653,7 +1653,8 @@
     "mark-for-check-again": "Mark to check again",
     "list-question": "Question List",
     "seat-left": "Seat available",
-    "by": "By"
+    "by": "By",
+    "learning-duration": "Learning Duration"
   },
   "user": {
     "type": "Type",
