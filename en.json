@@ -4,7 +4,7 @@
     "log-in": "Sign In",
     "register": "Register",
     "fill-email-password": "Please fill in your email and password.",
-    "email": "E-mail",
+    "email": "Email",
     "password": "Password",
     "password-rules": "Combination of letters, numbers & characters",
     "forgot-password": "Forgot Password?",
@@ -1158,7 +1158,7 @@
     "my-training": "My Class",
     "filter": "Filter",
     "add-program": "Added the program",
-    "email": "E-mail",
+    "email": "Email",
     "sanction": "Sanctions",
     "violation": "Violation",
     "history-sanction": "Sanction history",
@@ -2735,7 +2735,7 @@
         "location": "Location",
         "individual": "Individual",
         "waiting": "Wait",
-        "email": "E-mail",
+        "email": "Email",
         "position": "Position",
         "status": "Status",
         "filter": "Filter",
@@ -2815,14 +2815,14 @@
         "type-place": "Find the type ..."
       },
       "users": {
-        "email": "E-mail",
+        "email": "Email",
         "biodata": "Personal data",
         "central": "School",
         "biodata1": "Biodata"
       }
     },
     "users": {
-      "email": "E-mail",
+      "email": "Email",
       "biodata": "Personal data",
       "central": "School",
       "biodata1": "Biodata"
@@ -2885,7 +2885,7 @@
     "search-training": "Search training .."
   },
   "users": {
-    "email": "E-mail",
+    "email": "Email",
     "biodata": "Personal data",
     "central": "School",
     "biodata1": "Biodata"
