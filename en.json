@@ -202,7 +202,7 @@
     "active-class": "Active classes",
     "total-duration": "Total duration",
     "attendance-rate": "Attendance Rate",
-    "total-competency": "Total Competence",
+    "total-competency": "Total Assignment",
     "learning-activity": "Learning Activities",
     "active-activity": "Active activity",
     "complete-activity": "Finished Activity",
@@ -698,7 +698,7 @@
     "total-teachers": "Total Students",
     "scoring-student": "Student Assessment",
     "attedance-percentage": "Attendance Rate",
-    "total-competency": "Total Competency",
+    "total-competency": "Total Assignment",
     "new-activity": "Latest Activity",
     "program-just-started": "The classes has started",
     "program-will-started": "The history classes will begin today. Click ...",
@@ -1680,7 +1680,8 @@
     "user-not-found": "Users are not found, try a few more moments!",
     "type-uji-kompetensi": "Competence test",
     "mark": "Mark",
-    "total-topic-score-equals-hundread": "The total attendance and activity value must be equal to 100"
+    "total-topic-score-equals-hundread": "The total attendance and activity value must be equal to 100",
+    "thumbnail-must-fill": "Thumbnail must be filled"
   },
   "user": {
     "type": "Type",
