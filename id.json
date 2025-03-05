@@ -2595,5 +2595,6 @@
   "0-succeed-deleted": "{0} berhasil dihapus.",
   "0-failed-tobe-deleted": "{0} gagal dihapus.",
   "available-seat": "Kursi Tersedia",
-  "teacher-raw": "Teacher"
+  "teacher-raw": "Teacher",
+  "agenda-real": "Agenda"
 }

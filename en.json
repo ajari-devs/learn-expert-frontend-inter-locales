@@ -259,7 +259,7 @@
     "topic": "Topic",
     "usage": "Usage",
     "top-3-syllabus": "Top 3 syllabus",
-    "no-agenda-today": "There is no shedule today",
+    "no-agenda-today": "There is no agenda today",
     "agenda": "Schedule",
     "0-see-all": "{0} See all",
     "central-data": "School data",
@@ -3328,5 +3328,6 @@
   "confirm-delete-learning": "Are you sure to delete learning?",
   "0-succeed-deleted": "{0} successfully deleted.",
   "0-failed-tobe-deleted": "{0} failed to be deleted.",
-  "available-seat": "Seats available"
+  "available-seat": "Seats available",
+  "agenda-real": "Agenda"
 }
