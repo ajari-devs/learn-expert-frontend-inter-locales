@@ -2775,8 +2775,8 @@
         "total-sanction": "Total sanctions",
         "total-violation": "Total violations",
         "summary": "Summary",
-        "list-training": "Training list",
-        "search-training": "Search training ..",
+        "list-training": "Class list",
+        "search-training": "Search class ..",
         "search-central": "Search center ...",
         "search-learning": "Search learning ..",
         "type": "Type",
@@ -2871,7 +2871,7 @@
     "search-center": "Looking for the center ...",
     "type-place": "Find the type ...",
     "personal": "Private",
-    "training": "Training",
+    "training": "Class",
     "see-detail": "See details",
     "upcoming": "Upcoming",
     "ongoing": "Ongoing",
@@ -2881,8 +2881,8 @@
     "learning": "Learning",
     "duration": "Duration",
     "summary": "Summary",
-    "training-list": "Training list",
-    "search-training": "Search training .."
+    "training-list": "Class list",
+    "search-training": "Search class .."
   },
   "users": {
     "email": "Email",
