@@ -2596,5 +2596,21 @@
   "0-failed-tobe-deleted": "{0} gagal dihapus.",
   "available-seat": "Kursi Tersedia",
   "teacher-raw": "Teacher",
-  "agenda-real": "Agenda"
+  "agenda-real": "Agenda",
+  "detail-remedial": "Detail Remedial",
+  "preview-remedial": "Pratinjau Remedial",
+  "competency-fill-required": "Kompetensi harus diisi",
+  "start-time-fill-required": "Waktu mulai harus diisi",
+  "end-time-fill-required": "Waktu selesai harus diisi",
+  "save-remedial": "Simpan Remedial",
+  "comfirm-save-remedial": "Yakin ingin menyimpan remedial ini? Setelah disimpan, tidak ada perubahan atau penghapusan yang bisa dilakukan",
+  "yes-save": "Ya, Simpan",
+  "remedial-succeed-saved": "Remedial Berhasil Disimpan",
+  "remedial-failed-saved": "Remedial Gagal Disimpan",
+  "remedial-allowed-until-h14": "Remedial Berlaku hingga H+14 dari uji kompetensi & sebelum program selesai.",
+  "score-remedial-student-conditions": "Nilai akhir siswa adalah sama dengan nilai minimum kelulusan bila nilai remedialnya mencapai atau melebihi nilai minimum kelulusan.",
+  "remedial": "Remedial",
+  "please-verify-student-score": "Mohon Lakukan Verifikasi Nilai Siswa",
+  "remedial-creation-allowed-if-you-completed-student-scoring": "Pembuatan remedial dapat dilakukan jika Anda telah menyelesaikan semua penilaian siswa.",
+  "confirm-all-student-score": "Konfirmasi Semua Nilai siswa"
 }
