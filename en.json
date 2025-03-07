@@ -61,7 +61,7 @@
     "access-required": "Access must be filled",
     "id-required": "ID must be filled",
     "type-required": "Type must be filled",
-    "my-doc": "My document",
+    "my-doc": "My Document",
     "success-create-folder": "Successfully creating a folder.",
     "fail-saving": "Failed to save",
     "please-try-again": "Please try again",
@@ -3329,5 +3329,7 @@
   "0-succeed-deleted": "{0} successfully deleted.",
   "0-failed-tobe-deleted": "{0} failed to be deleted.",
   "available-seat": "Seats available",
-  "agenda-real": "Agenda"
+  "agenda-real": "Agenda",
+  "school": "School",
+  "teacher": "Teacher"
 }
