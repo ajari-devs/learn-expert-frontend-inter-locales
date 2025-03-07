@@ -61,7 +61,7 @@
     "access-required": "Access must be filled",
     "id-required": "ID must be filled",
     "type-required": "Type must be filled",
-    "my-doc": "My document",
+    "my-doc": "My Document",
     "success-create-folder": "Successfully creating a folder.",
     "fail-saving": "Failed to save",
     "please-try-again": "Please try again",
@@ -3346,5 +3346,7 @@
   "remedial": "Remedial",
   "please-verify-student-score": "Please verify student score",
   "remedial-creation-allowed-if-you-completed-student-scoring": "Remedial creation can be done if you have completed all student scoring.",
-  "confirm-all-student-score": "Confirm All Student Scoring"
+  "confirm-all-student-score": "Confirm All Student Scoring",
+  "school": "School",
+  "teacher": "Teacher"
 }
