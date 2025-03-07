@@ -1228,7 +1228,7 @@
     "date": "Date",
     "setting-group": "Set the grade",
     "see-score": "See the score",
-    "score-minimum": "The minimum value of graduation",
+    "score-minimum": "Minimum Passing Grade",
     "online-class": "Online Class",
     "max-join-15-min": "Max. \nJoin 15 minutes before class",
     "maks-15-minutes": "Max. \nJoin 15 minutes before class",
@@ -1237,7 +1237,7 @@
     "start-class": "Start class",
     "fail-no-pass": "Not pass",
     "question": "Question",
-    "start-working": "Start working",
+    "start-working": "Start Working",
     "assesment-template": "Assessment template",
     "do-assessment": "Do the assessment",
     "detail": "Details",
@@ -1681,7 +1681,8 @@
     "type-uji-kompetensi": "Competence test",
     "mark": "Mark",
     "total-topic-score-equals-hundread": "The total attendance and activity value must be equal to 100",
-    "thumbnail-must-fill": "Thumbnail must be filled"
+    "thumbnail-must-fill": "Thumbnail must be filled",
+    "start-competention-test": "Start Competency Test"
   },
   "user": {
     "type": "Type",
