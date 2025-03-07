@@ -1681,7 +1681,20 @@
     "type-uji-kompetensi": "Competence test",
     "mark": "Mark",
     "total-topic-score-equals-hundread": "The total attendance and activity value must be equal to 100",
-    "thumbnail-must-fill": "Thumbnail must be filled"
+    "thumbnail-must-fill": "Thumbnail must be filled",
+    "no-verification-face": "Face verification has not been done!",
+    "you-not-verify-face-please-verify": "You have not done a face verification. \nPlease verify the face now",
+    "verification-now": "Verification now",
+    "profile-not-complete": "Incomplete profile",
+    "incomplete-profile-please-fill-in": "Your profile is incomplete. \nPlease complete the following document",
+    "start-competention-test": "Start the competency test",
+    "check-your-stability-connection": "Make sure your connection is stable because the exam will be collected automatically if your connection is cut off",
+    "are-you-sure-quit-competetion": "Are you sure you want to get out of the comparative test work page?",
+    "document-not-complete": "Incomplete document",
+    "complete-now": "Complete now",
+    "rule-test-competency": "Competency Test Order",
+    "notes": "Notes",
+    "point-will-acumulate": "Points will be accumulated and students will be considered to fail if they reach 7 points"
   },
   "user": {
     "type": "Type",
