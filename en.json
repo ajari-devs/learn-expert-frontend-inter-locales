@@ -856,7 +856,10 @@
     "finished": "Finished",
     "take-a-quick": "Let's take a quick assessment to personalize your learning experience!",
     "decrease": "decrease",
-    "increase": "increase"
+    "increase": "increase",
+    "school-data-overview": "School Data Overview",
+    "show-users": "Show Users",
+    "archivement-score": "Achievement Score"
   },
   "chat": {
     "friend": "Friend",
@@ -1694,7 +1697,8 @@
     "complete-now": "Complete now",
     "rule-test-competency": "Competency Test Order",
     "notes": "Notes",
-    "point-will-acumulate": "Points will be accumulated and students will be considered to fail if they reach 7 points"
+    "point-will-acumulate": "Points will be accumulated and students will be considered to fail if they reach 7 points",
+    "no-join-program": "You don't join this program."
   },
   "user": {
     "type": "Type",

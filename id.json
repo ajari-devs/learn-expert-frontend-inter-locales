@@ -865,7 +865,10 @@
     "finished": "Selesai",
     "take-a-quick": "Mari lakukan penilaian cepat untuk mempersonalisasi pengalaman belajar Anda!",
     "decrease": "menurun",
-    "increase": "meningkat"
+    "increase": "meningkat",
+    "school-data-overview": "School Data Overview",
+    "show-users": "Show Users",
+    "archivement-score": "Achievement Score"
   },
   "chat": {
     "friend": "Teman",
