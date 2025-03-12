@@ -1698,7 +1698,8 @@
     "rule-test-competency": "Competency Test Order",
     "notes": "Notes",
     "point-will-acumulate": "Points will be accumulated and students will be considered to fail if they reach 7 points",
-    "no-join-program": "You don't join this program."
+    "no-join-program": "You don't join this program.",
+    "classes": "Classes"
   },
   "user": {
     "type": "Type",

@@ -2134,7 +2134,8 @@
     "finish": "Selesai",
     "seat-left": "Kursi Tersedia",
     "type-uji-kompetensi": "Uji Kompetensi",
-    "mark": "Tandai"
+    "mark": "Tandai",
+    "classes": "Kelas"
   },
   "program-start-test-now": "Kerjakan Sekarang",
   "school": "Sekolah",
@@ -2615,5 +2616,6 @@
   "remedial": "Remedial",
   "please-verify-student-score": "Mohon Lakukan Verifikasi Nilai Siswa",
   "remedial-creation-allowed-if-you-completed-student-scoring": "Pembuatan remedial dapat dilakukan jika Anda telah menyelesaikan semua penilaian siswa.",
-  "confirm-all-student-score": "Konfirmasi Semua Nilai siswa"
+  "confirm-all-student-score": "Konfirmasi Semua Nilai siswa",
+  "classes": "Classes"
 }
