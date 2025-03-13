@@ -503,7 +503,9 @@
     "select-cities": "Pilih kabupaten/kota..",
     "enter-email": "Masukan email kantor..",
     "enter-address": "Masukan alamat kantor..",
-    "enter-place-email": "Masukan email atasan.."
+    "enter-place-email": "Masukan email atasan..",
+    "address": "Address",
+    "home-address": "Home Address"
   },
   "silabus": {
     "remove-syllabus-item": "Hapus Item Silabus",
@@ -2617,5 +2619,6 @@
   "please-verify-student-score": "Mohon Lakukan Verifikasi Nilai Siswa",
   "remedial-creation-allowed-if-you-completed-student-scoring": "Pembuatan remedial dapat dilakukan jika Anda telah menyelesaikan semua penilaian siswa.",
   "confirm-all-student-score": "Konfirmasi Semua Nilai siswa",
-  "classes": "Classes"
+  "classes": "Classes",
+  "address": "Address"
 }

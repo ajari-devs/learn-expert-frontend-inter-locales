@@ -360,7 +360,7 @@
     "phone-number": "Phone number",
     "place-birthday": "Place",
     "domicile": "Domicile address",
-    "change-biodata": "Change personal data",
+    "change-biodata": "Edit personal data",
     "place-birth": "Place of birth",
     "failed-update-biodata": "Personal data failed to be saved",
     "placesholder-name": "Enter your full name ..",
@@ -495,7 +495,8 @@
     "select-cities": "Choose Regency/City ..",
     "enter-email": "Enter office email ..",
     "enter-address": "Enter office address ..",
-    "enter-place-email": "Enter the boss's email .."
+    "enter-place-email": "Enter the boss's email ..",
+    "home-address": "Home Address"
   },
   "silabus": {
     "remove-syllabus-item": "Delete syllabus items",
@@ -3365,5 +3366,6 @@
   "remedial-creation-allowed-if-you-completed-student-scoring": "Remedial creation can be done if you have completed all student scoring.",
   "confirm-all-student-score": "Confirm All Student Scoring",
   "school": "School",
-  "teacher": "Teacher"
+  "teacher": "Teacher",
+  "address": "Address"
 }
