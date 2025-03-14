@@ -2617,5 +2617,11 @@
   "please-verify-student-score": "Mohon Lakukan Verifikasi Nilai Siswa",
   "remedial-creation-allowed-if-you-completed-student-scoring": "Pembuatan remedial dapat dilakukan jika Anda telah menyelesaikan semua penilaian siswa.",
   "confirm-all-student-score": "Konfirmasi Semua Nilai siswa",
-  "classes": "Classes"
+  "classes": "Classes",
+  "school-management": {
+    "title": "Pengaturan Sekolah",
+    "view-all": "Lihat Semua",
+    "current-batch": "Kelompok Saat ini",
+    "graduate-batch": "Kelompok Lulus"
+  }
 }

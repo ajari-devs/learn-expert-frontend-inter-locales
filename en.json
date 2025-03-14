@@ -1699,7 +1699,8 @@
     "notes": "Notes",
     "point-will-acumulate": "Points will be accumulated and students will be considered to fail if they reach 7 points",
     "no-join-program": "You don't join this program.",
-    "classes": "Classes"
+    "classes": "Classes",
+    "school-title": ""
   },
   "user": {
     "type": "Type",
@@ -3365,5 +3366,11 @@
   "remedial-creation-allowed-if-you-completed-student-scoring": "Remedial creation can be done if you have completed all student scoring.",
   "confirm-all-student-score": "Confirm All Student Scoring",
   "school": "School",
+  "school-management": {
+    "title": "School Management",
+    "view-all": "View all",
+    "current-batch": "Current Batch",
+    "graduate-batch": "Graduated Batchs"
+  },
   "teacher": "Teacher"
 }
