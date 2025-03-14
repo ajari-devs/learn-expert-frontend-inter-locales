@@ -46,7 +46,7 @@
   },
   "pia": {
     "welcome": "N.I.S.A is a virtual assistant designed to assist you throughout this educational platform.",
-    "welcome_caption": "How can NISA help?",
+    "welcome_caption": "How can AI Assitant help with?",
     "input": {
       "placeholder": "Type your question..."
     },
@@ -360,7 +360,7 @@
     "phone-number": "Phone number",
     "place-birthday": "Place",
     "domicile": "Domicile address",
-    "change-biodata": "Change personal data",
+    "change-biodata": "Edit personal data",
     "place-birth": "Place of birth",
     "failed-update-biodata": "Personal data failed to be saved",
     "placesholder-name": "Enter your full name ..",
@@ -495,7 +495,8 @@
     "select-cities": "Choose Regency/City ..",
     "enter-email": "Enter office email ..",
     "enter-address": "Enter office address ..",
-    "enter-place-email": "Enter the boss's email .."
+    "enter-place-email": "Enter the boss's email ..",
+    "home-address": "Home Address"
   },
   "silabus": {
     "remove-syllabus-item": "Delete syllabus items",
@@ -3372,5 +3373,6 @@
     "current-batch": "Current Batch",
     "graduate-batch": "Graduated Batchs"
   },
-  "teacher": "Teacher"
+  "teacher": "Teacher",
+  "address": "Address"
 }

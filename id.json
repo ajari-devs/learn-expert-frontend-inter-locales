@@ -503,7 +503,9 @@
     "select-cities": "Pilih kabupaten/kota..",
     "enter-email": "Masukan email kantor..",
     "enter-address": "Masukan alamat kantor..",
-    "enter-place-email": "Masukan email atasan.."
+    "enter-place-email": "Masukan email atasan..",
+    "address": "Address",
+    "home-address": "Home Address"
   },
   "silabus": {
     "remove-syllabus-item": "Hapus Item Silabus",
@@ -2623,5 +2625,6 @@
     "view-all": "Lihat Semua",
     "current-batch": "Kelompok Saat ini",
     "graduate-batch": "Kelompok Lulus"
-  }
+  },
+  "address": "Address"
 }
