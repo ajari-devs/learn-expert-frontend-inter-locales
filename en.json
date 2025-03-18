@@ -1383,7 +1383,7 @@
     "question-type": "Question Type",
     "soal-paraphrase": "Paraphrase Question",
     "rearange-question-for-random-or-duplicate": "Re -arrange questions for instant randomization and doubling",
-    "final-result": "Final Result",
+    "final-result": "Report",
     "activate-for-see-final-result-after-do-task": "Activate to display the final result after doing the assignment",
     "give-feedback": "Give feedback",
     "allow-to-give-feedback": "Allow to leave feedback.",
@@ -1675,7 +1675,7 @@
     "learning-duration": "Learning Duration",
     "learning-name": "Learning name",
     "see-certificate": "See certificate",
-    "end-test-detail": "Details of the final result",
+    "end-test-detail": "Report Detail",
     "score-learning-activities": "Learning activity score",
     "absen-presence": "Attendance presence",
     "permission-sent": "The permit application was successfully sent!",
@@ -1701,7 +1701,8 @@
     "point-will-acumulate": "Points will be accumulated and students will be considered to fail if they reach 7 points",
     "no-join-program": "You don't join this program.",
     "classes": "Classes",
-    "school-title": ""
+    "school-title": "",
+    "learning-report": "Learning Report"
   },
   "user": {
     "type": "Type",
