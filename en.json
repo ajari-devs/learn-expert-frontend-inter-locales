@@ -3405,5 +3405,6 @@
   "you-can-add-more-one-user": "You can add more than 1 user.",
   "pengguna": "User",
   "insert-student-id": "Enter Student ID ..",
-  "school-succeed-saved": "The school was successfully stored"
+  "school-succeed-saved": "The school was successfully stored",
+  "performance-metrics": "Performance Metrics"
 }
