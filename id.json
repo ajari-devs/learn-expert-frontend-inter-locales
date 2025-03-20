@@ -2137,7 +2137,10 @@
     "seat-left": "Kursi Tersedia",
     "type-uji-kompetensi": "Uji Kompetensi",
     "mark": "Tandai",
-    "classes": "Kelas"
+    "classes": "Kelas",
+    "assessment": "Assessment",
+    "class": "Class",
+    "class-detail": "Class Details"
   },
   "program-start-test-now": "Kerjakan Sekarang",
   "school": "Sekolah",

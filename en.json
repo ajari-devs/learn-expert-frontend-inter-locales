@@ -1523,8 +1523,8 @@
     "no-invitation-program": "There is no invitation program",
     "can-display-program": "The program appears here after getting an invitation.",
     "will-take-place": "Upcoming Classes",
-    "no-program-ongoing": "No program will take place",
-    "can-display-invitation": "The program will appear here after receiving an invitation.",
+    "no-program-ongoing": "No class will take place",
+    "can-display-invitation": "Class will appear here after receiving an invitation.",
     "ongoing-program": "Ongoing Classes",
     "finished-program": "Complete Classes",
     "no-program-completed": "No program is completed",
@@ -1702,7 +1702,10 @@
     "no-join-program": "You don't join this program.",
     "classes": "Classes",
     "school-title": "",
-    "learning-report": "Learning Report"
+    "learning-report": "Learning Report",
+    "assessment": "Assessment",
+    "class": "Class",
+    "class-detail": "Class Details"
   },
   "user": {
     "type": "Type",
