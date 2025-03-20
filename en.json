@@ -322,7 +322,10 @@
     "total-master-teacher": "Total teacher master",
     "total-video-duration": "Total video duration",
     "total-read-pdf": "Total read PDF",
-    "total-read-ppt": "Total Read Ppt"
+    "total-read-ppt": "Total Read Ppt",
+    "time-allocation": "Time Allocation",
+    "pending-assignment": "Pending Assignment",
+    "completed-class": "Completed Class"
   },
   "layout": {
     "yes-leave": "Yes, Leave",

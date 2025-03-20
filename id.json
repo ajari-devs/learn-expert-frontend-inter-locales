@@ -332,7 +332,10 @@
     "total-master-teacher": "Total Master Guru",
     "total-video-duration": "Total Durasi Video",
     "total-read-pdf": "Total Baca PDF",
-    "total-read-ppt": "Total Baca PPT"
+    "total-read-ppt": "Total Baca PPT",
+    "time-allocation": "Alokasi Waktu",
+    "pending-assignment": "Task pending",
+    "completed-class": "Kelas Selesai"
   },
   "layout": {
     "yes-leave": "Ya, Keluar",
