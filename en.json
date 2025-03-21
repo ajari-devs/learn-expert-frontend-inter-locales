@@ -252,8 +252,8 @@
     "progress": "Progress",
     "no-class": "No Class",
     "no-available-class-now": "There is no class available now.",
-    "newest-activity": "Newest activity",
-    "no-activity": "No activity",
+    "newest-activity": "Latest activity",
+    "no-activity": "No New Activity",
     "no-syllabus": "No syllabus yet",
     "no-syllabus-available": "There is no syllabus available now.",
     "topic": "Topic",
@@ -325,7 +325,10 @@
     "total-read-ppt": "Total Read Ppt",
     "time-allocation": "Time Allocation",
     "pending-assignment": "Pending Assignment",
-    "completed-class": "Completed Class"
+    "completed-class": "Completed Class",
+    "currently-no-activity": "Currently, there is no new activity for you.",
+    "my-class-subject": "My Class Subjects",
+    "today-class": "Today's Class"
   },
   "layout": {
     "yes-leave": "Yes, Leave",
