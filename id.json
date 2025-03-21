@@ -335,7 +335,11 @@
     "total-read-ppt": "Total Baca PPT",
     "time-allocation": "Alokasi Waktu",
     "pending-assignment": "Task pending",
-    "completed-class": "Kelas Selesai"
+    "completed-class": "Kelas Selesai",
+    "currently-no-activity": "Sementara tidak ada aktifitas baru untukmu",
+    "my-class-subject": "Subjek Kelas Saya",
+    "today-class": "Kelas Hari Ini",
+    "today-class-subject": "Kelas Subjek Hari Ini"
   },
   "layout": {
     "yes-leave": "Ya, Keluar",
