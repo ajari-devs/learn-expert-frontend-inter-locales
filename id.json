@@ -338,7 +338,8 @@
     "completed-class": "Kelas Selesai",
     "currently-no-activity": "Sementara tidak ada aktifitas baru untukmu",
     "my-class-subject": "Subjek Kelas Saya",
-    "today-class": "Kelas Hari Ini"
+    "today-class": "Kelas Hari Ini",
+    "today-class-subject": "Kelas Subjek Hari Ini"
   },
   "layout": {
     "yes-leave": "Ya, Keluar",

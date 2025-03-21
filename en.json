@@ -328,7 +328,8 @@
     "completed-class": "Completed Class",
     "currently-no-activity": "Currently, there is no new activity for you.",
     "my-class-subject": "My Class Subjects",
-    "today-class": "Today's Class"
+    "today-class": "Today's Class",
+    "today-class-subject": "Today's Class Subject"
   },
   "layout": {
     "yes-leave": "Yes, Leave",
