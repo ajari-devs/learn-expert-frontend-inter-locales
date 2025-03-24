@@ -2668,5 +2668,9 @@
   "pengguna": "Pengguna",
   "insert-student-id": "Masukan nip..",
   "school-succeed-saved": "Sekolah Berhasil Disimpan",
-  "performance-metrics": "Performance Metrics"
+  "performance-metrics": "Performance Metrics",
+  "upcoming-classes": "Upcoming Classes",
+  "search-class": "Search Class",
+  "ongoing-class": "On-going Classes",
+  "finished": "Finished"
 }
