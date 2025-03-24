@@ -2672,5 +2672,40 @@
   "upcoming-classes": "Upcoming Classes",
   "search-class": "Search Class",
   "ongoing-class": "On-going Classes",
-  "finished": "Finished"
+  "finished": "Finished",
+  "master": {
+    "fill-required": "Harus di isi",
+    "city-district-name": "Nama Kabupaten/kota",
+    "province": "Provinsi",
+    "regency-city-success-to": "Kabupaten/Kota Berhasil",
+    "added": "Ditambahkan",
+    "master": {
+      "added": "Ditambahkan"
+    },
+    "saved": "Disimpan",
+    "regency-city-failed-to": "Kabupaten/Kota Gagal",
+    "delete-city": "Hapus Item Kabupaten/Kota",
+    "confirm-delete-city": "Apakah Anda yakin untuk menghapus item Kabupaten/Kota?",
+    "yes-delete": "Ya, Hapus",
+    "success-delete-city": "Kabupaten/Kota Berhasil Dihapus",
+    "failed-delete-city": "Kabupaten/Kota Gagal Dihapus",
+    "cancel": "Batal",
+    "add-city": "Tambah Kota",
+    "city": "Kabupaten/kota",
+    "search-city-placeholder": "Cari kabupaten/kota..",
+    "edit": "Ubah",
+    "add": "Tambah",
+    "insert-name": "Masukan nama..",
+    "name": "Nama",
+    "select-province": "Pilih provinsi..",
+    "province-name": "Nama Provinsi",
+    "province-failed-to": "Provinsi gagal",
+    "province-success-to": "Provinsi Berhasil",
+    "delete-province": "Hapus Item Provinsi",
+    "confirm-delete-province": "Apakah Anda yakin untuk menghapus item provinsi?",
+    "success-delete-province": "Provinsi Berhasil Dihapus",
+    "failed-delete-province": "Provinsi Gagal Dihapus",
+    "add-province": "Tambah Provinsi",
+    "search-province": "Cari provinsi.."
+  }
 }

@@ -3419,5 +3419,39 @@
   "performance-metrics": "Performance Metrics",
   "upcoming-classes": "Upcoming classes",
   "ongoing-class": "On-Going Classes",
-  "finished": "Finished"
+  "finished": "Finished",
+  "master": {
+    "fill-required": "Must be filled",
+    "city-district-name": "City/Regency name",
+    "province": "Province",
+    "regency-city-success-to": "City/Regency success to",
+    "master": {
+      "added": "Added"
+    },
+    "saved": "Saved",
+    "regency-city-failed-to": "City/Regency failed to",
+    "delete-city": "Delete City/Regency Items",
+    "confirm-delete-city": "Are you sure to delete city/regency items?",
+    "yes-delete": "Yes, delete",
+    "success-delete-city": "City/Regency successfully deleted",
+    "failed-delete-city": "Regencies/cities failed to be deleted",
+    "cancel": "Cancel",
+    "add-city": "Add city",
+    "city": "City/Regency",
+    "search-city-placeholder": "Search regencies/cities ..",
+    "edit": "Edit",
+    "add": "Add",
+    "insert-name": "Enter the name ..",
+    "name": "Name",
+    "select-province": "Choose the province ..",
+    "province-name": "Province name",
+    "province-failed-to": "Province failed to",
+    "province-success-to": "Province Success to",
+    "delete-province": "Delete province",
+    "confirm-delete-province": "Are you sure to delete province?",
+    "success-delete-province": "The province was successfully deleted",
+    "failed-delete-province": "The province failed to be deleted",
+    "add-province": "Added Province",
+    "search-province": "Search province .."
+  }
 }
