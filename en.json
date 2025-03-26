@@ -1712,7 +1712,9 @@
     "learning-report": "Learning Report",
     "assessment": "Assessment",
     "class": "Class",
-    "class-detail": "Class Details"
+    "class-detail": "Class Details",
+    "desc-disallow-contain-space-begin-end": "Description may not include spaces at the beginning and end",
+    "fill-required": "Must be filled"
   },
   "user": {
     "type": "Type",

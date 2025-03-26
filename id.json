@@ -2147,7 +2147,9 @@
     "classes": "Kelas",
     "assessment": "Assessment",
     "class": "Class",
-    "class-detail": "Class Details"
+    "class-detail": "Class Details",
+    "desc-disallow-contain-space-begin-end": "Deskripsi tidak boleh menyertakan spasi di awal dan akhir",
+    "fill-required": "Harus di isi"
   },
   "program-start-test-now": "Kerjakan Sekarang",
   "school": "Sekolah",
