@@ -36,7 +36,10 @@
     "insert-new-password": "Enter the new password",
     "insert-confirm-new-password": "Enter the new password confirmation",
     "password-not-valid": "Valid password",
-    "password-not-match": "Both passwords are not appropriate"
+    "password-not-match": "Both passwords are not appropriate",
+    "locked-account": "Account locked, try again in time",
+    "minutes": "Minute",
+    "second": "Second"
   },
   "footer": {
     "powerd_by": "Powered By",

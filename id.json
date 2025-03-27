@@ -36,7 +36,10 @@
     "insert-new-password": "Masukkan kata sandi baru",
     "insert-confirm-new-password": "Masukkan konfirmasi kata sandi baru",
     "password-not-valid": "Password tidak valid",
-    "password-not-match": "Kedua kata sandi belum sesuai"
+    "password-not-match": "Kedua kata sandi belum sesuai",
+    "locked-account": "Akun terkunci, Coba lagi dalam waktu",
+    "minutes": "Menit",
+    "second": "Detik"
   },
   "pia": {
     "welcome": "N.I.S.A adalah asisten virtual yang dirancang untuk membantu Anda di seluruh platform pendidikan ini.",
