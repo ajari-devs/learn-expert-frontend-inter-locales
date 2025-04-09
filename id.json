@@ -2152,7 +2152,9 @@
     "class": "Class",
     "class-detail": "Class Details",
     "desc-disallow-contain-space-begin-end": "Deskripsi tidak boleh menyertakan spasi di awal dan akhir",
-    "fill-required": "Harus di isi"
+    "fill-required": "Harus di isi",
+    "class-hour": "Jam Kelas",
+    "learning-period": "Periode Pembelajaran"
   },
   "program-start-test-now": "Kerjakan Sekarang",
   "school": "Sekolah",

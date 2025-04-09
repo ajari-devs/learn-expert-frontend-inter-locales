@@ -1717,7 +1717,9 @@
     "class": "Class",
     "class-detail": "Class Details",
     "desc-disallow-contain-space-begin-end": "Description may not include spaces at the beginning and end",
-    "fill-required": "Must be filled"
+    "fill-required": "Must be filled",
+    "class-hour": "Class hours",
+    "learning-period": "Learning period"
   },
   "user": {
     "type": "Type",
