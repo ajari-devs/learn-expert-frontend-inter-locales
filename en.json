@@ -332,7 +332,14 @@
     "currently-no-activity": "Currently, there is no new activity for you.",
     "my-class-subject": "My Class Subjects",
     "today-class": "Today's Class",
-    "today-class-subject": "Today's Class Subject"
+    "today-class-subject": "Today's Class Subject",
+    "complate-assignmenets": "Complete Asignments",
+    "grade-class": "Grade Class",
+    "avg-score-summary": "Average Score Summary",
+    "total-allocation": "Total Allocation",
+    "complate-class": "Complete Class",
+    "active-assignment": "Active assignmet",
+    "avg-calss-duration": "Average Class Duration"
   },
   "layout": {
     "yes-leave": "Yes, Leave",

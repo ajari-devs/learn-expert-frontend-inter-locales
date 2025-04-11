@@ -342,7 +342,14 @@
     "currently-no-activity": "Sementara tidak ada aktifitas baru untukmu",
     "my-class-subject": "Subjek Kelas Saya",
     "today-class": "Kelas Hari Ini",
-    "today-class-subject": "Kelas Subjek Hari Ini"
+    "today-class-subject": "Kelas Subjek Hari Ini",
+    "complate-assignmenets": "Complate Asignments",
+    "grade-class": "Grade Class",
+    "avg-score-summary": "Average Score Summary",
+    "total-allocation": "Total Allocation",
+    "complate-class": "Complate Class",
+    "active-assignment": "Active Assignmenet",
+    "avg-calss-duration": "Average Class Duration"
   },
   "layout": {
     "yes-leave": "Ya, Keluar",
