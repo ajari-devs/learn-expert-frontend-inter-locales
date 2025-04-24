@@ -2928,7 +2928,10 @@
     "summary": "Summary",
     "training-list": "Class list",
     "search-training": "Search class ..",
-    "ya-delete": "Yes, delete"
+    "ya-delete": "Yes, delete",
+    "password-must-contain": "The password must contain:",
+    "password-min-char": "At least 8 characters (max. 20)",
+    "password-camelcase": "At least 1 number"
   },
   "users": {
     "email": "Email",

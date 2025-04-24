@@ -1408,7 +1408,10 @@
     "duration": "Durasi",
     "summary": "Ringkasan",
     "training-list": "Daftar Pelatihan",
-    "search-training": "Cari pelatihan.."
+    "search-training": "Cari pelatihan..",
+    "password-must-contain": "Kata sandi harus berisi:",
+    "password-min-char": "Minimal 8 karakter (maks. 20)",
+    "password-camelcase": "Minimal 1 angka & huruf besar"
   },
   "batal": "Batal",
   "chat-hasnt-empty": "Pesan tidak boleh kosong",
