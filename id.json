@@ -1408,7 +1408,10 @@
     "duration": "Durasi",
     "summary": "Ringkasan",
     "training-list": "Daftar Pelatihan",
-    "search-training": "Cari pelatihan.."
+    "search-training": "Cari pelatihan..",
+    "password-must-contain": "Kata sandi harus berisi:",
+    "password-min-char": "Minimal 8 karakter (maks. 20)",
+    "password-camelcase": "Minimal 1 angka & huruf besar"
   },
   "batal": "Batal",
   "chat-hasnt-empty": "Pesan tidak boleh kosong",
@@ -2721,5 +2724,13 @@
     "failed-delete-province": "Provinsi Gagal Dihapus",
     "add-province": "Tambah Provinsi",
     "search-province": "Cari provinsi.."
-  }
+  },
+  "password-must-contain": "Kata sandi harus berisi:",
+  "password-min-char": "Minimal 8 karakter (maks. 20)",
+  "password-camelcase": "Minimal 1 angka & huruf besar",
+  "password-special-char": "Minimal 1 karakter khusus",
+  "failed-upload": "Gagal Upload",
+  "remaining-second": "detik tersisa",
+  "failed-select-file": "Gagal Memilih File",
+  "max-file": "File tidak boleh lebih dari"
 }
