@@ -2927,7 +2927,8 @@
     "duration": "Duration",
     "summary": "Summary",
     "training-list": "Class list",
-    "search-training": "Search class .."
+    "search-training": "Search class ..",
+    "ya-delete": "Yes, delete"
   },
   "users": {
     "email": "Email",
