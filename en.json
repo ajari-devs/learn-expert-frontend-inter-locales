@@ -3480,5 +3480,11 @@
   "failed-upload": "Failed to upload",
   "remaining-second": "remaining seconds",
   "failed-select-file": "Failure to select files",
-  "max-file": "Files should not be more than"
+  "max-file": "Files should not be more than",
+  "management": {
+    "teacher": {
+      "title": "Teacher Management",
+      "new-register": "New Register"
+    }
+  }
 }

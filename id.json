@@ -2735,7 +2735,9 @@
   "max-file": "File tidak boleh lebih dari",
   "management": {
     "teacher": {
-      "save": "Save"
+      "save": "Save",
+      "new-register": "New Register",
+      "title": "Teacher Management"
     }
   }
 }
