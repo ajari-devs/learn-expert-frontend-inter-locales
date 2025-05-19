@@ -2732,5 +2732,10 @@
   "failed-upload": "Gagal Upload",
   "remaining-second": "detik tersisa",
   "failed-select-file": "Gagal Memilih File",
-  "max-file": "File tidak boleh lebih dari"
+  "max-file": "File tidak boleh lebih dari",
+  "management": {
+    "teacher": {
+      "save": "Save"
+    }
+  }
 }
