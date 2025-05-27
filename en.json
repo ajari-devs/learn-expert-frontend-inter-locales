@@ -3484,7 +3484,9 @@
   "management": {
     "teacher": {
       "title": "Teacher Management",
-      "new-register": "New Register"
+      "new-register": "New Register",
+      "save": "Save",
+      "update": "Update"
     }
   }
 }

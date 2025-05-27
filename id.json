@@ -2737,7 +2737,8 @@
     "teacher": {
       "save": "Save",
       "new-register": "New Register",
-      "title": "Teacher Management"
+      "title": "Teacher Management",
+      "update": "update"
     }
   }
 }
