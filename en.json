@@ -1726,7 +1726,10 @@
     "desc-disallow-contain-space-begin-end": "Description may not include spaces at the beginning and end",
     "fill-required": "Must be filled",
     "class-hour": "Class hours",
-    "learning-period": "Learning period"
+    "learning-period": "Learning period",
+    "save-study-case": "Save Case Study",
+    "give-feednack": "Give a review",
+    "make-study-case": "Create a case study"
   },
   "user": {
     "type": "Type",

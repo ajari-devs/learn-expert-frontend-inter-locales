@@ -2164,7 +2164,13 @@
     "desc-disallow-contain-space-begin-end": "Deskripsi tidak boleh menyertakan spasi di awal dan akhir",
     "fill-required": "Harus di isi",
     "class-hour": "Jam Kelas",
-    "learning-period": "Periode Pembelajaran"
+    "learning-period": "Periode Pembelajaran",
+    "failed-submit-study-case": "failed",
+    "success-save-study-case": "succes",
+    "failed-save-study-case": "failed",
+    "save-study-case": "Save Studi Kasus",
+    "give-feednack": "berikan ulasan",
+    "make-study-case": "buat study kasus"
   },
   "program-start-test-now": "Kerjakan Sekarang",
   "school": "Sekolah",
